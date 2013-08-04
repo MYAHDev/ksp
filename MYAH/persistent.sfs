@@ -135,7 +135,7 @@ GAME
 	FLIGHTSTATE
 	{
 		version = 0.21.1
-		UT = 4876446.99483477
+		UT = 4876525.55483302
 		activeVessel = 0
 		VESSEL
 		{
@@ -2433,13 +2433,13 @@ GAME
 			cMod = 0
 			ORBIT
 			{
-				SMA = 0
+				SMA = 300037.473808978
 				ECC = 1
 				INC = NaN
-				LPE = 159.145028168823
-				LAN = 268.171975503727
-				MNA = -8.40714670366795
-				EPH = 4876424.53483527
+				LPE = 163.77662183941
+				LAN = -85.5767527607666
+				MNA = 3.14159265358979
+				EPH = 4876521.71483311
 				REF = 1
 				OBJ = 0
 			}
@@ -7680,16 +7680,16 @@ GAME
 			landed = False
 			landedAt = 
 			splashed = False
-			met = 565.235821438022
+			met = 647.495819602162
 			lct = 4875859.27901384
 			root = 0
-			lat = -4.17919297315953
-			lon = 337.604847525246
-			alt = 162013.594982754
+			lat = -4.81931268928209
+			lon = -10.4553524871381
+			alt = 162855.495046162
 			hgt = -1
-			nrm = -0.964433,0.2628819,-0.02761461
-			rot = -0.2219446,-0.6684909,-0.68409,0.1894237
-			CoM = 1.31903E-05,0.1054819,-1.520711E-07
+			nrm = -0.878018,0.4773754,-0.03460461
+			rot = 0.2219493,0.6684897,0.6840901,-0.1894225
+			CoM = -0.0001275244,0.105303,4.193976E-06
 			stg = 0
 			prst = False
 			ref = 2102229336
@@ -7698,13 +7698,13 @@ GAME
 			cMod = 0
 			ORBIT
 			{
-				SMA = 760645.715096779
-				ECC = 0.0053592198123375
-				INC = 5.30699071726238
-				LPE = 122.09549927554
-				LAN = 109.475034929747
-				MNA = 1.9079496004363
-				EPH = 4876424.51483527
+				SMA = 760645.257117241
+				ECC = 0.00530824394244794
+				INC = 5.30699076077541
+				LPE = 121.832231488859
+				LAN = 109.475036912184
+				MNA = 2.14562501451179
+				EPH = 4876506.77483344
 				REF = 1
 				OBJ = 0
 			}
@@ -7725,13 +7725,13 @@ GAME
 				srfN = None, -1
 				attN = bottom, 1
 				mass = 0.05
-				temp = -202.4798
+				temp = -198.8275
 				expt = 0
 				state = 1
 				connected = True
 				attached = True
 				flag = Squad/Flags/trees
-				rTrf = probeCoreSphere
+				rTrf = probeCoreSphere (Spud-nik II)
 				EVENTS
 				{
 				}
@@ -7851,7 +7851,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 3.59428369155671E-13
+					amount = 3.27787357093251E-05
 					maxAmount = 10
 					flowState = True
 					flowMode = Both
@@ -7875,7 +7875,7 @@ GAME
 				attN = top, 0
 				attN = bottom, 8
 				mass = 0.001
-				temp = -202.2033
+				temp = -198.5582
 				expt = 0.5
 				state = 1
 				connected = True
@@ -7910,7 +7910,7 @@ GAME
 				sym = 7
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = -200.8591
+				temp = -197.2298
 				expt = 0.5
 				state = 1
 				connected = True
@@ -7994,7 +7994,7 @@ GAME
 				sym = 7
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = -200.6179
+				temp = -196.998
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8078,7 +8078,7 @@ GAME
 				sym = 7
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = -200.3774
+				temp = -196.7664
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8162,7 +8162,7 @@ GAME
 				sym = 7
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = -200.1364
+				temp = -196.5357
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8246,7 +8246,7 @@ GAME
 				sym = 7
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = -199.9005
+				temp = -196.3054
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8330,7 +8330,7 @@ GAME
 				sym = 6
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = -199.6607
+				temp = -196.0754
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8411,7 +8411,7 @@ GAME
 				attN = top, 1
 				attN = None, -1
 				mass = 0.01
-				temp = -199.4211
+				temp = -195.8457
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8427,7 +8427,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 178.655362348143
+					amount = 169.961445399039
 					maxAmount = 200
 					flowState = True
 					flowMode = Both
@@ -8454,7 +8454,7 @@ GAME
 				sym = 14
 				srfN = srfAttach, 0
 				mass = 0.015
-				temp = -200.7516
+				temp = -197.1262
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8535,7 +8535,7 @@ GAME
 				sym = 14
 				srfN = srfAttach, 0
 				mass = 0.015
-				temp = -200.5233
+				temp = -196.9014
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8616,7 +8616,7 @@ GAME
 				sym = 14
 				srfN = srfAttach, 0
 				mass = 0.015
-				temp = -200.2886
+				temp = -196.677
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8697,7 +8697,7 @@ GAME
 				sym = 14
 				srfN = srfAttach, 0
 				mass = 0.015
-				temp = -200.0573
+				temp = -196.4532
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8778,7 +8778,7 @@ GAME
 				sym = 14
 				srfN = srfAttach, 0
 				mass = 0.015
-				temp = -199.8242
+				temp = -196.2297
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8859,7 +8859,7 @@ GAME
 				sym = 13
 				srfN = srfAttach, 0
 				mass = 0.015
-				temp = -199.5909
+				temp = -196.0069
 				expt = 0.5
 				state = 1
 				connected = True
@@ -8949,31 +8949,31 @@ GAME
 			landed = False
 			landedAt = 
 			splashed = False
-			met = 55.9799987487495
+			met = 138.239996911958
 			lct = 4876368.53483653
 			root = 0
-			lat = -4.17931330109447
-			lon = 337.605642927295
-			alt = 161962.386421656
+			lat = -4.81965042779791
+			lon = -10.451163700455
+			alt = 162735.998641797
 			hgt = -1
-			nrm = 0.8231354,0.5632056,-0.07244206
-			rot = -0.695277,-0.09435013,-0.09977975,0.7055011
-			CoM = 0.000540612,-2.121617,-0.01250297
+			nrm = 0.930326,0.3579334,-0.07985754
+			rot = 0.6952769,0.09434806,0.09977744,-0.7055019
+			CoM = -1.645684E-05,-2.121539,-0.01285176
 			stg = 2
 			prst = False
 			ref = 0
 			cPch = 0
 			cHdg = 0
-			cMod = -1
+			cMod = 0
 			ORBIT
 			{
-				SMA = 760685.067195073
-				ECC = 0.00493996065873777
-				INC = 5.30732661251018
-				LPE = 121.870483418021
-				LAN = 109.478325396371
-				MNA = 1.91263936009674
-				EPH = 4876424.51483527
+				SMA = 760684.754358935
+				ECC = 0.00488899709664497
+				INC = 5.30732663112857
+				LPE = 121.583731738355
+				LAN = 109.478325248305
+				MNA = 2.15070660565743
+				EPH = 4876506.77483344
 				REF = 1
 				OBJ = 1
 			}
@@ -8995,13 +8995,13 @@ GAME
 				attN = bottom, 1
 				attN = None, -1
 				mass = 0.015
-				temp = -200.8567
+				temp = -40.28506
 				expt = 0.5
 				state = 1
 				connected = False
 				attached = False
 				flag = Squad/Flags/trees
-				rTrf = stackDecouplerMini
+				rTrf = stackDecouplerMini (Spud-nik II Debris)
 				EVENTS
 				{
 				}
@@ -9054,7 +9054,7 @@ GAME
 				attN = top, 0
 				attN = bottom, 3
 				mass = 0.5
-				temp = -200.7526
+				temp = -40.26479
 				expt = 0.5
 				state = 1
 				connected = False
@@ -9071,7 +9071,7 @@ GAME
 				{
 					name = ModuleReactionWheel
 					isEnabled = True
-					stateString = Not enough ElectricCharge
+					stateString = Operational
 					WheelState = Active
 					EVENTS
 					{
@@ -9131,7 +9131,7 @@ GAME
 				attm = 1
 				srfN = srfAttach, 1
 				mass = 0.05
-				temp = -200.1364
+				temp = -40.14117
 				expt = 0.5
 				state = 1
 				connected = False
@@ -9201,7 +9201,7 @@ GAME
 				attN = top, 1
 				attN = bottom, 4
 				mass = 0.25
-				temp = -200.1841
+				temp = -40.1509
 				expt = 0.5
 				state = 1
 				connected = False
@@ -9217,7 +9217,7 @@ GAME
 				RESOURCE
 				{
 					name = LiquidFuel
-					amount = 25.8129938850471
+					amount = 25.8129940032959
 					maxAmount = 180
 					flowState = True
 					flowMode = Both
@@ -9225,7 +9225,7 @@ GAME
 				RESOURCE
 				{
 					name = Oxidizer
-					amount = 31.549205671589
+					amount = 31.5492057800293
 					maxAmount = 220
 					flowState = True
 					flowMode = Both
@@ -9249,7 +9249,7 @@ GAME
 				attN = top, 3
 				attN = None, -1
 				mass = 1.25
-				temp = -199.889
+				temp = -40.09237
 				expt = 0.5
 				state = 1
 				connected = False

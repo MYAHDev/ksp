@@ -229,7 +229,7 @@ GAME
 	FLIGHTSTATE
 	{
 		version = 0.21.1
-		UT = 26902679.9633714
+		UT = 26936014.4009763
 		activeVessel = 29
 		VESSEL
 		{
@@ -700,8 +700,8 @@ GAME
 			stg = 0
 			prst = False
 			ref = 2102229336
-			cPch = 0.1679999
-			cHdg = -3.547999
+			cPch = 
+			cHdg = 
 			cMod = 0
 			ORBIT
 			{
@@ -2419,8 +2419,8 @@ GAME
 			stg = 2
 			prst = False
 			ref = 2393599429
-			cPch = -0.02599997
-			cHdg = 0.9340003
+			cPch = 
+			cHdg = 
 			cMod = 0
 			ORBIT
 			{
@@ -4073,13 +4073,13 @@ GAME
 			cMod = 0
 			ORBIT
 			{
-				SMA = 101245.92416891
+				SMA = 0
 				ECC = 1
 				INC = NaN
-				LPE = 19.8966744529479
-				LAN = -158.018532109279
-				MNA = 3.14159265358979
-				EPH = 26869739.7996019
+				LPE = 133.32166566113
+				LAN = 80.375741751621
+				MNA = -8.40714670366795
+				EPH = 26902703.3833709
 				REF = 2
 				OBJ = 0
 			}
@@ -7413,13 +7413,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 31334.0464443628
+				SMA = NaN
 				ECC = 1
 				INC = NaN
-				LPE = 121.72660789093
-				LAN = -158.018532109279
-				MNA = 3.14159265358979
-				EPH = 26869739.7996019
+				LPE = 69.5787183004044
+				LAN = 80.375741751621
+				MNA = -8.40714670366795
+				EPH = 26902703.3833709
 				REF = 3
 				OBJ = 1
 			}
@@ -7632,10 +7632,10 @@ GAME
 				SMA = NaN
 				ECC = 1
 				INC = NaN
-				LPE = 121.680004659548
-				LAN = -158.018532109279
+				LPE = 69.5541810133289
+				LAN = 80.375741751621
 				MNA = -8.40714670366795
-				EPH = 26869739.7996019
+				EPH = 26902703.3833709
 				REF = 3
 				OBJ = 1
 			}
@@ -7848,10 +7848,10 @@ GAME
 				SMA = NaN
 				ECC = 1
 				INC = NaN
-				LPE = 121.659491420898
-				LAN = -158.018532109279
+				LPE = 69.5029892959528
+				LAN = 80.375741751621
 				MNA = -8.40714670366795
-				EPH = 26869739.7996019
+				EPH = 26902703.3833709
 				REF = 3
 				OBJ = 1
 			}
@@ -8061,13 +8061,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 31332.1935531617
+				SMA = NaN
 				ECC = 1
 				INC = NaN
-				LPE = 121.659929094652
-				LAN = -158.018532109279
-				MNA = 3.14159265358979
-				EPH = 26869739.7996019
+				LPE = 69.4873765620179
+				LAN = 80.375741751621
+				MNA = -8.40714670366795
+				EPH = 26902703.3833709
 				REF = 3
 				OBJ = 1
 			}
@@ -8277,13 +8277,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 31335.0864020991
+				SMA = NaN
 				ECC = 1
 				INC = NaN
-				LPE = 121.723282583477
-				LAN = -158.018532109279
-				MNA = 3.14159265358979
-				EPH = 26869739.7996019
+				LPE = 69.5907576613764
+				LAN = 80.375741751621
+				MNA = -8.40714670366795
+				EPH = 26902703.3833709
 				REF = 3
 				OBJ = 1
 			}
@@ -8496,10 +8496,10 @@ GAME
 				SMA = NaN
 				ECC = 1
 				INC = NaN
-				LPE = 121.725382926216
-				LAN = -158.018532109279
+				LPE = 69.5933410051865
+				LAN = 80.375741751621
 				MNA = -8.40714670366795
-				EPH = 26869739.7996019
+				EPH = 26902703.3833709
 				REF = 3
 				OBJ = 1
 			}
@@ -8709,13 +8709,13 @@ GAME
 			cMod = 0
 			ORBIT
 			{
-				SMA = 100818.399817003
+				SMA = NaN
 				ECC = 1
 				INC = NaN
-				LPE = 81.3928575975838
-				LAN = -158.018532109279
-				MNA = 3.14159265358979
-				EPH = 26869739.7996019
+				LPE = 125.594949478357
+				LAN = 80.375741751621
+				MNA = 0
+				EPH = 26902703.3833709
 				REF = 2
 				OBJ = 0
 			}
@@ -11202,13 +11202,13 @@ GAME
 			cMod = 0
 			ORBIT
 			{
-				SMA = NaN
+				SMA = 100707.152067741
 				ECC = 1
 				INC = NaN
-				LPE = 81.7362634129346
-				LAN = -158.018532109279
-				MNA = -8.40714670366795
-				EPH = 26869739.7996019
+				LPE = 125.25132821027
+				LAN = 80.375741751621
+				MNA = 3.14159265358979
+				EPH = 26902703.3833709
 				REF = 2
 				OBJ = 1
 			}
@@ -12321,21 +12321,21 @@ GAME
 			landed = False
 			landedAt = 
 			splashed = False
-			met = 16231974.7686257
+			met = 16295750.8935956
 			lct = 10632753.6519265
 			root = 0
-			lat = 0.121836217193777
-			lon = -225.807280915682
-			alt = 530745.467468066
+			lat = 0.165675240930277
+			lon = -282.923020338274
+			alt = 532375.322186477
 			hgt = -1
 			nrm = 0.6318965,0.5962223,0.4952027
 			rot = 0.326719,-0.6024311,0.2079712,0.6979108
-			CoM = -7.698159E-06,-4.267317,3.371138E-05
+			CoM = 0.0002504845,-4.465831,0.0006871157
 			stg = 1
 			prst = False
 			ref = 701585054
-			cPch = 0.08200055
-			cHdg = -5.860008
+			cPch = 0
+			cHdg = 0
 			cMod = 0
 			ORBIT
 			{
@@ -12367,7 +12367,7 @@ GAME
 				attN = bottom, 1
 				attN = top, 42
 				mass = 4.5
-				temp = -202.0132
+				temp = -0.0002422243
 				expt = 0.5
 				state = 1
 				connected = True
@@ -12494,7 +12494,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 199.999812263089
+					amount = 200
 					maxAmount = 200
 					flowState = True
 					flowMode = Both
@@ -12518,7 +12518,7 @@ GAME
 				attN = top, 0
 				attN = bottom, 4
 				mass = 2.5
-				temp = -201.3557
+				temp = -0.0002421488
 				expt = 0.5
 				state = 1
 				connected = True
@@ -12578,7 +12578,7 @@ GAME
 				sym = 3
 				srfN = srfAttach, 1
 				mass = 0.35
-				temp = -200.4349
+				temp = -0.0002409315
 				expt = 0.5
 				state = 1
 				connected = True
@@ -12595,7 +12595,7 @@ GAME
 				{
 					name = ModuleDeployableSolarPanel
 					isEnabled = True
-					currentRotation = (0.2832667, 0.2834724, -0.6477853, 0.6479025)
+					currentRotation = (0.2816137, 0.2818192, -0.6485057, 0.6486232)
 					stateString = EXTENDED
 					storedAnimationTime = 0
 					storedAnimationSpeed = 0
@@ -12658,7 +12658,7 @@ GAME
 				sym = 2
 				srfN = srfAttach, 1
 				mass = 0.35
-				temp = -200.2125
+				temp = -0.0002403836
 				expt = 0.5
 				state = 1
 				connected = True
@@ -12675,7 +12675,7 @@ GAME
 				{
 					name = ModuleDeployableSolarPanel
 					isEnabled = True
-					currentRotation = (0.647977, 0.647784, -0.2832941, 0.2832778)
+					currentRotation = (0.648653, 0.6484594, -0.281743, 0.2817278)
 					stateString = EXTENDED
 					storedAnimationTime = 0
 					storedAnimationSpeed = 0
@@ -12739,7 +12739,7 @@ GAME
 				attN = top, 1
 				attN = bottom, 5
 				mass = 0.4
-				temp = -200.5192
+				temp = -0.0002412744
 				expt = 0.5
 				state = 1
 				connected = True
@@ -12755,7 +12755,7 @@ GAME
 				RESOURCE
 				{
 					name = MonoPropellant
-					amount = 400.715328629283
+					amount = 400.71533203125
 					maxAmount = 750
 					flowState = True
 					flowMode = Both
@@ -12779,7 +12779,7 @@ GAME
 				attN = top, 4
 				attN = bottom, 6
 				mass = 0.2
-				temp = -200.5779
+				temp = -0.0002414708
 				expt = 0.5
 				state = 1
 				connected = True
@@ -12858,7 +12858,7 @@ GAME
 				attN = top, 5
 				attN = bottom, 7
 				mass = 0.2
-				temp = -200.721
+				temp = -0.0002416907
 				expt = 0.5
 				state = 1
 				connected = True
@@ -12874,7 +12874,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 3999.99981226309
+					amount = 4000
 					maxAmount = 4000
 					flowState = True
 					flowMode = Both
@@ -12898,7 +12898,7 @@ GAME
 				attN = top, 6
 				attN = bottom, 8
 				mass = 0.2
-				temp = -201.1034
+				temp = -0.0002419411
 				expt = 0.5
 				state = 1
 				connected = True
@@ -12914,7 +12914,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 3999.99981226309
+					amount = 4000
 					maxAmount = 4000
 					flowState = True
 					flowMode = Both
@@ -12938,7 +12938,7 @@ GAME
 				attN = top, 7
 				attN = bottom, 9
 				mass = 0.2
-				temp = -202.0991
+				temp = -0.0002422103
 				expt = 0.5
 				state = 1
 				connected = True
@@ -12954,7 +12954,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 3999.99981226309
+					amount = 4000
 					maxAmount = 4000
 					flowState = True
 					flowMode = Both
@@ -12982,7 +12982,7 @@ GAME
 				attN = top, 8
 				attN = bottom, 14
 				mass = 1.5
-				temp = -202.2025
+				temp = -0.0002428079
 				expt = 0.5
 				state = 1
 				connected = True
@@ -13014,7 +13014,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 9
 				mass = 0.05
-				temp = -200.8474
+				temp = -0.0002416895
 				expt = 0.5
 				state = 1
 				connected = True
@@ -13156,7 +13156,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 9
 				mass = 0.05
-				temp = -200.6184
+				temp = -0.0002411284
 				expt = 0.5
 				state = 1
 				connected = True
@@ -13298,7 +13298,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 9
 				mass = 0.05
-				temp = -200.3901
+				temp = -0.0002405694
 				expt = 0.5
 				state = 1
 				connected = True
@@ -13440,7 +13440,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 9
 				mass = 0.05
-				temp = -200.1617
+				temp = -0.0002400109
 				expt = 0.5
 				state = 1
 				connected = True
@@ -13582,7 +13582,7 @@ GAME
 				attN = top, 9
 				attN = bottom, 15
 				mass = 0.5
-				temp = -203.7498
+				temp = -0.0002417823
 				expt = 0.5
 				state = 1
 				connected = True
@@ -13630,7 +13630,7 @@ GAME
 				attN = top, 14
 				attN = None, -1
 				mass = 2.25
-				temp = -201.2526
+				temp = -0.0002407483
 				expt = 0.5
 				state = 1
 				connected = True
@@ -13814,7 +13814,7 @@ GAME
 				sym = 19
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -201.4303
+				temp = -0.0002404859
 				expt = 0.5
 				state = 1
 				connected = True
@@ -13885,7 +13885,7 @@ GAME
 				sym = 19
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -201.2209
+				temp = -0.000239969
 				expt = 0.5
 				state = 1
 				connected = True
@@ -13956,7 +13956,7 @@ GAME
 				sym = 19
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -201.018
+				temp = -0.0002394532
 				expt = 0.5
 				state = 1
 				connected = True
@@ -14027,7 +14027,7 @@ GAME
 				sym = 18
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -200.8094
+				temp = -0.0002389381
 				expt = 0.5
 				state = 1
 				connected = True
@@ -14093,7 +14093,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank.long_14; pos: 0.003698745,-1.332954,0.009853139; dir: 0.002344469,-0.9999767,0.006421333
+				cData = tgt: fuelTank.long_14; pos: 0.003666864,-1.332903,0.009844126; dir: 0.002344469,-0.9999767,0.006421333
 				sym = 21
 				sym = 22
 				sym = 23
@@ -14101,7 +14101,7 @@ GAME
 				sym = 25
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -200.5995
+				temp = -0.0002384275
 				expt = 0
 				state = 1
 				connected = True
@@ -14129,7 +14129,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank.long_14; pos: 0.002453998,-1.333409,0.009844631; dir: 0.002344469,-0.9999767,0.006421333
+				cData = tgt: fuelTank.long_14; pos: 0.002451579,-1.333435,0.009921417; dir: 0.002344469,-0.9999767,0.006421333
 				sym = 20
 				sym = 22
 				sym = 23
@@ -14137,7 +14137,7 @@ GAME
 				sym = 25
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -200.4129
+				temp = -0.0002379417
 				expt = 0
 				state = 1
 				connected = True
@@ -14165,7 +14165,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank.long_14; pos: 0.0019969,-1.333336,0.008565903; dir: 0.002344469,-0.9999767,0.006421333
+				cData = tgt: fuelTank.long_14; pos: 0.001977985,-1.33335,0.008572723; dir: 0.002344469,-0.9999767,0.006421333
 				sym = 20
 				sym = 21
 				sym = 23
@@ -14173,7 +14173,7 @@ GAME
 				sym = 25
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -200.2252
+				temp = -0.0002374569
 				expt = 0
 				state = 1
 				connected = True
@@ -14201,7 +14201,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank.long_14; pos: 0.002698028,-1.333146,0.007545465; dir: 0.002344469,-0.9999767,0.006421333
+				cData = tgt: fuelTank.long_14; pos: 0.002645874,-1.333205,0.0074873; dir: 0.002344469,-0.9999767,0.006421333
 				sym = 20
 				sym = 21
 				sym = 22
@@ -14209,7 +14209,7 @@ GAME
 				sym = 25
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -200.0349
+				temp = -0.0002369732
 				expt = 0
 				state = 1
 				connected = True
@@ -14237,7 +14237,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank.long_14; pos: 0.004038215,-1.332543,0.007699749; dir: 0.002344469,-0.9999767,0.006421333
+				cData = tgt: fuelTank.long_14; pos: 0.004020785,-1.332518,0.007704319; dir: 0.002344469,-0.9999767,0.006421333
 				sym = 20
 				sym = 21
 				sym = 22
@@ -14245,7 +14245,7 @@ GAME
 				sym = 25
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -199.851
+				temp = -0.0002364899
 				expt = 0
 				state = 1
 				connected = True
@@ -14273,7 +14273,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank.long_14; pos: 0.004304115,-1.332476,0.008999899; dir: 0.002344469,-0.9999767,0.006421333
+				cData = tgt: fuelTank.long_14; pos: 0.004243055,-1.33239,0.009016527; dir: 0.002344469,-0.9999767,0.006421333
 				sym = 20
 				sym = 21
 				sym = 22
@@ -14281,7 +14281,7 @@ GAME
 				sym = 24
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -199.6607
+				temp = -0.0002360079
 				expt = 0
 				state = 1
 				connected = True
@@ -14316,7 +14316,7 @@ GAME
 				sym = 31
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -199.4761
+				temp = -0.000235527
 				expt = 0
 				state = 1
 				connected = True
@@ -14351,7 +14351,7 @@ GAME
 				sym = 31
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -199.2865
+				temp = -0.0002350445
 				expt = 0
 				state = 1
 				connected = True
@@ -14386,7 +14386,7 @@ GAME
 				sym = 31
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -199.098
+				temp = -0.0002345631
 				expt = 0
 				state = 1
 				connected = True
@@ -14421,7 +14421,7 @@ GAME
 				sym = 31
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -198.9127
+				temp = -0.0002340822
 				expt = 0
 				state = 1
 				connected = True
@@ -14456,7 +14456,7 @@ GAME
 				sym = 31
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -198.7273
+				temp = -0.0002336026
 				expt = 0
 				state = 1
 				connected = True
@@ -14491,7 +14491,7 @@ GAME
 				sym = 30
 				srfN = srfAttach, 14
 				mass = 0.05
-				temp = -198.5418
+				temp = -0.0002331243
 				expt = 0
 				state = 1
 				connected = True
@@ -14519,7 +14519,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: dockingPort2_12; pos: 0.05254355,-0.4797119,0.02275729; dir: 0.1085575,-0.9929848,0.0468655
+				cData = tgt: dockingPort2_12; pos: 0.0524831,-0.4797681,0.02274484; dir: 0.1085575,-0.9929848,0.0468655
 				sym = 33
 				sym = 34
 				sym = 35
@@ -14527,7 +14527,7 @@ GAME
 				sym = 37
 				srfN = srfAttach, 8
 				mass = 0.05
-				temp = -200.5677
+				temp = -0.0002404866
 				expt = 0
 				state = 1
 				connected = True
@@ -14555,7 +14555,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: dockingPort2_13; pos: 0.08607595,-0.7866758,0.03736357; dir: 0.1085575,-0.9929848,0.0468655
+				cData = tgt: dockingPort2_13; pos: 0.08602776,-0.7867236,0.03731222; dir: 0.1085575,-0.9929848,0.0468655
 				sym = 32
 				sym = 34
 				sym = 35
@@ -14563,7 +14563,7 @@ GAME
 				sym = 37
 				srfN = srfAttach, 8
 				mass = 0.05
-				temp = -200.3502
+				temp = -0.0002399455
 				expt = 0
 				state = 1
 				connected = True
@@ -14591,7 +14591,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: RCSBlock_18; pos: 0.5504146,-5.036864,0.2375016; dir: 0.1085575,-0.9929848,0.0468655
+				cData = tgt: RCSBlock_18; pos: 0.5503764,-5.036835,0.2375501; dir: 0.1085575,-0.9929848,0.0468655
 				sym = 32
 				sym = 33
 				sym = 35
@@ -14599,7 +14599,7 @@ GAME
 				sym = 37
 				srfN = srfAttach, 8
 				mass = 0.05
-				temp = -200.13
+				temp = -0.0002394054
 				expt = 0
 				state = 1
 				connected = True
@@ -14627,7 +14627,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: dockingPort2_10; pos: 0.05225124,-0.4786361,0.02264376; dir: 0.1085575,-0.9929848,0.0468655
+				cData = tgt: dockingPort2_10; pos: 0.05221881,-0.4785717,0.02265562; dir: 0.1085575,-0.9929848,0.0468655
 				sym = 32
 				sym = 33
 				sym = 34
@@ -14635,7 +14635,7 @@ GAME
 				sym = 37
 				srfN = srfAttach, 8
 				mass = 0.05
-				temp = -199.9115
+				temp = -0.000238867
 				expt = 0
 				state = 1
 				connected = True
@@ -14663,7 +14663,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: dockingPort2_11; pos: 0.08598599,-0.7874247,0.0373117; dir: 0.1085575,-0.9929848,0.0468655
+				cData = tgt: dockingPort2_11; pos: 0.08597467,-0.7873858,0.0372761; dir: 0.1085575,-0.9929848,0.0468655
 				sym = 32
 				sym = 33
 				sym = 34
@@ -14671,7 +14671,7 @@ GAME
 				sym = 37
 				srfN = srfAttach, 8
 				mass = 0.05
-				temp = -199.6953
+				temp = -0.0002383296
 				expt = 0
 				state = 1
 				connected = True
@@ -14699,7 +14699,7 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: RCSBlock_16; pos: 0.5508421,-5.038366,0.2383395; dir: 0.1085575,-0.9929848,0.0468655
+				cData = tgt: RCSBlock_16; pos: 0.5507774,-5.038459,0.2383916; dir: 0.1085575,-0.9929848,0.0468655
 				sym = 32
 				sym = 33
 				sym = 34
@@ -14707,7 +14707,7 @@ GAME
 				sym = 36
 				srfN = srfAttach, 8
 				mass = 0.05
-				temp = -199.4795
+				temp = -0.0002377936
 				expt = 0
 				state = 1
 				connected = True
@@ -14740,7 +14740,7 @@ GAME
 				sym = 41
 				srfN = srfAttach, 0
 				mass = 0.05
-				temp = -200.5359
+				temp = -0.0002404882
 				expt = 0.5
 				state = 1
 				connected = True
@@ -14811,7 +14811,7 @@ GAME
 				sym = 41
 				srfN = srfAttach, 0
 				mass = 0.05
-				temp = -200.3178
+				temp = -0.0002399501
 				expt = 0.5
 				state = 1
 				connected = True
@@ -14882,7 +14882,7 @@ GAME
 				sym = 41
 				srfN = srfAttach, 0
 				mass = 0.05
-				temp = -200.102
+				temp = -0.0002394134
 				expt = 0.5
 				state = 1
 				connected = True
@@ -14953,7 +14953,7 @@ GAME
 				sym = 40
 				srfN = srfAttach, 0
 				mass = 0.05
-				temp = -199.889
+				temp = -0.0002388776
 				expt = 0.5
 				state = 1
 				connected = True
@@ -15023,7 +15023,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 0
 				mass = 0.05
-				temp = -199.6543
+				temp = -0.0002383473
 				expt = 0.5
 				state = 1
 				connected = True
@@ -23342,13 +23342,13 @@ GAME
 			cMod = 0
 			ORBIT
 			{
-				SMA = NaN
+				SMA = 30000.9056492801
 				ECC = 1
 				INC = NaN
-				LPE = 141.19238964771
-				LAN = -158.018532109279
-				MNA = -8.40714670366795
-				EPH = 26869739.7996019
+				LPE = 86.3880229646065
+				LAN = 80.375741751621
+				MNA = 3.14159265358979
+				EPH = 26902703.3833709
 				REF = 3
 				OBJ = 0
 			}
@@ -26023,13 +26023,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = NaN
+				SMA = 0
 				ECC = 1
 				INC = NaN
-				LPE = 141.317903308903
-				LAN = -158.018532109279
+				LPE = 86.5525005350882
+				LAN = 80.375741751621
 				MNA = -8.40714670366795
-				EPH = 26869739.7996019
+				EPH = 26902703.3833709
 				REF = 3
 				OBJ = 1
 			}
@@ -28460,31 +28460,31 @@ GAME
 			landed = False
 			landedAt = 
 			splashed = False
-			met = 42535.8943638913
+			met = 75870.3319687583
 			lct = 26860144.0290075
 			root = 0
-			lat = -0.19597683831606
-			lon = -4.56289980276051
-			alt = 489371.056218882
+			lat = 0.0435995930249016
+			lon = -97.5321600440637
+			alt = 547318.343809711
 			hgt = -1
-			nrm = -0.9161069,0.07691977,0.3934864
-			rot = -0.6308972,-0.5460598,-0.3330998,0.4391264
-			CoM = -0.0008555476,-8.11574,-0.001247991
+			nrm = 0.5443611,0.459323,0.7019214
+			rot = -0.6749486,-0.4247662,-0.1826826,-0.5750176
+			CoM = 0.001992799,-8.104206,-0.0007504504
 			stg = 0
 			prst = False
 			ref = 2683858312
-			cPch = 0.0892389
-			cHdg = -33.81801
+			cPch = -0.2699998
+			cHdg = 0.4540074
 			cMod = 0
 			ORBIT
 			{
-				SMA = 1111405.93665859
-				ECC = 0.0198642030861819
-				INC = 0.221231123613896
-				LPE = 238.759515453642
-				LAN = 21.0844729945317
-				MNA = 0.0602439275320903
-				EPH = 26902679.9633714
+				SMA = 1139993.85448877
+				ECC = 0.00737969861109429
+				INC = 0.16301016363136
+				LPE = 166.199059701804
+				LAN = 350.530547362994
+				MNA = 3.66043159322179
+				EPH = 26936014.4009763
 				REF = 1
 				OBJ = 0
 			}
@@ -28505,7 +28505,7 @@ GAME
 				srfN = None, -1
 				attN = bottom, 1
 				mass = 1.25
-				temp = -40.45446
+				temp = -40.46703
 				expt = 0.5
 				state = 1
 				connected = True
@@ -28632,7 +28632,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 7.58427826155408
+					amount = 50
 					maxAmount = 50
 					flowState = True
 					flowMode = Both
@@ -28656,7 +28656,7 @@ GAME
 				attN = top, 0
 				attN = bottom, 2
 				mass = 1
-				temp = -40.38402
+				temp = -40.41506
 				expt = 0.5
 				state = 1
 				connected = True
@@ -28783,7 +28783,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 7.58427826155408
+					amount = 50
 					maxAmount = 50
 					flowState = True
 					flowMode = Both
@@ -28807,7 +28807,7 @@ GAME
 				attN = top, 1
 				attN = bottom, 3
 				mass = 0.125
-				temp = -40.44752
+				temp = -40.51649
 				expt = 0.5
 				state = 1
 				connected = True
@@ -28978,7 +28978,7 @@ GAME
 				attN = bottom, 4
 				attN = top, 2
 				mass = 0.3
-				temp = -40.69289
+				temp = -40.83008
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29057,7 +29057,7 @@ GAME
 				attN = top, 3
 				attN = bottom, 5
 				mass = 0.35
-				temp = -41.46824
+				temp = -41.72854
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29100,7 +29100,7 @@ GAME
 				attN = bottom03, 6
 				attN = bottom04, 71
 				mass = 0.175
-				temp = -38.20238
+				temp = -40.86416
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29135,7 +29135,7 @@ GAME
 				attN = top, 5
 				attN = None, -1
 				mass = 0.5
-				temp = -39.69573
+				temp = -40.57713
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29184,7 +29184,7 @@ GAME
 				sym = 72
 				srfN = srfAttach, 6
 				mass = 0.05
-				temp = -39.67562
+				temp = -40.33577
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29255,7 +29255,7 @@ GAME
 				sym = 75
 				srfN = srfAttach, 6
 				mass = 0.35
-				temp = -39.63618
+				temp = -40.28882
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29272,15 +29272,15 @@ GAME
 				{
 					name = ModuleDeployableSolarPanel
 					isEnabled = True
-					currentRotation = (0, 0, -0.7071068, 0.7071068)
-					stateString = RETRACTED
+					currentRotation = (-0.3233509, -0.3232324, 0.6288289, -0.6289192)
+					stateString = EXTENDED
 					storedAnimationTime = 0
-					storedAnimationSpeed = -1
+					storedAnimationSpeed = 1
 					EVENTS
 					{
 						Extend
 						{
-							active = True
+							active = False
 							guiActive = True
 							guiIcon = Extend Panels
 							guiName = Extend Panels
@@ -29291,7 +29291,7 @@ GAME
 						}
 						Retract
 						{
-							active = False
+							active = True
 							guiActive = True
 							guiIcon = Retract Panels
 							guiName = Retract Panels
@@ -29337,7 +29337,7 @@ GAME
 				sym = 76
 				srfN = srfAttach, 6
 				mass = 0.1
-				temp = -40.03077
+				temp = -40.40631
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29372,7 +29372,7 @@ GAME
 				attN = top, 11
 				attN = bottom, 17
 				mass = 0.4
-				temp = -40.33374
+				temp = -40.45841
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29407,7 +29407,7 @@ GAME
 				attN = top, 12
 				attN = bottom, 10
 				mass = 0.05
-				temp = -40.29633
+				temp = -40.35415
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29423,7 +29423,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -29450,7 +29450,7 @@ GAME
 				attN = top, 13
 				attN = bottom, 11
 				mass = 0.05
-				temp = -40.28588
+				temp = -40.31205
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29466,7 +29466,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -29493,7 +29493,7 @@ GAME
 				attN = top, 14
 				attN = bottom, 12
 				mass = 0.05
-				temp = -40.28077
+				temp = -40.29218
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29509,7 +29509,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -29536,7 +29536,7 @@ GAME
 				attN = top, 15
 				attN = bottom, 13
 				mass = 0.05
-				temp = -40.27003
+				temp = -40.27536
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29552,7 +29552,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -29578,7 +29578,7 @@ GAME
 				srfN = None, -1
 				attN = bottom01, 14
 				mass = 0.03
-				temp = -40.2406
+				temp = -40.24479
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29606,13 +29606,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: dockingPortLateral_2; pos: -1.554969,3.097772,-0.1447986; dir: -0.4481596,0.8929837,-0.04163093
+				cData = tgt: dockingPortLateral_2; pos: -1.554975,3.097773,-0.1447565; dir: -0.4481596,0.8929837,-0.04163093
 				sym = 39
 				sym = 60
 				sym = 83
 				srfN = srfAttach, 15
 				mass = 0.05
-				temp = -40.1687
+				temp = -40.17072
 				expt = 0
 				state = 1
 				connected = True
@@ -29649,7 +29649,7 @@ GAME
 				attN = bottom02, 18
 				attN = bottom03, 20
 				mass = 0.15
-				temp = -40.38881
+				temp = -40.42702
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29684,7 +29684,7 @@ GAME
 				attN = top, 19
 				attN = bottom, 17
 				mass = 0.04
-				temp = -40.28749
+				temp = -40.306
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29719,7 +29719,7 @@ GAME
 				attN = top, 18
 				attN = None, -1
 				mass = 0.25
-				temp = -40.1909
+				temp = -40.20114
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29815,7 +29815,7 @@ GAME
 				attN = top, 21
 				attN = bottom, 17
 				mass = 0.04
-				temp = -40.25048
+				temp = -40.26886
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29850,7 +29850,7 @@ GAME
 				attN = top, 20
 				attN = None, -1
 				mass = 0.25
-				temp = -40.1721
+				temp = -40.1828
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29946,7 +29946,7 @@ GAME
 				attN = top, 23
 				attN = bottom, 17
 				mass = 0.04
-				temp = -40.21377
+				temp = -40.23226
 				expt = 0.5
 				state = 1
 				connected = True
@@ -29981,7 +29981,7 @@ GAME
 				attN = top, 22
 				attN = None, -1
 				mass = 0.25
-				temp = -40.15401
+				temp = -40.16429
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30075,7 +30075,7 @@ GAME
 				sym = 91
 				srfN = srfAttach, 10
 				mass = 0.35
-				temp = -40.10919
+				temp = -40.18731
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30092,15 +30092,15 @@ GAME
 				{
 					name = ModuleDeployableSolarPanel
 					isEnabled = True
-					currentRotation = (0, 0, -0.7071068, 0.7071068)
-					stateString = RETRACTED
+					currentRotation = (-0.03213098, -0.03216345, 0.7063807, -0.7063707)
+					stateString = EXTENDED
 					storedAnimationTime = 0
-					storedAnimationSpeed = -1
+					storedAnimationSpeed = 1
 					EVENTS
 					{
 						Extend
 						{
-							active = True
+							active = False
 							guiActive = True
 							guiIcon = Extend Panels
 							guiName = Extend Panels
@@ -30111,7 +30111,7 @@ GAME
 						}
 						Retract
 						{
-							active = False
+							active = True
 							guiActive = True
 							guiIcon = Retract Panels
 							guiName = Retract Panels
@@ -30157,7 +30157,7 @@ GAME
 				sym = 92
 				srfN = srfAttach, 9
 				mass = 0.015
-				temp = -39.94988
+				temp = -40.20483
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30231,10 +30231,10 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: stackBiCoupler_29; pos: -0.009369512,-0.3609086,0.02156544; dir: -0.02656157,-0.9978423,0.06004423; rot: -0.4993324,0.5006666,-0.5006658,0.4993334
+				cData = tgt: stackBiCoupler_29; pos: -0.009370927,-0.3610709,0.02268191; dir: -0.02656157,-0.9978423,0.06004423; rot: -0.6827689,-0.6832554,-0.1839237,-0.1821012
 				srfN = srfAttach, 6
 				mass = 0.05
-				temp = -39.56962
+				temp = -40.20133
 				expt = 0
 				state = 1
 				connected = True
@@ -30269,7 +30269,7 @@ GAME
 				attN = top, 5
 				attN = bottom, 29
 				mass = 0.5
-				temp = -34.64907
+				temp = -40.59888
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30285,7 +30285,7 @@ GAME
 				RESOURCE
 				{
 					name = LiquidFuel
-					amount = 274.119525557146
+					amount = 208.648676563897
 					maxAmount = 360
 					flowState = True
 					flowMode = Both
@@ -30293,7 +30293,7 @@ GAME
 				RESOURCE
 				{
 					name = Oxidizer
-					amount = 243.352447975659
+					amount = 163.332502690441
 					maxAmount = 440
 					flowState = True
 					flowMode = Both
@@ -30318,7 +30318,7 @@ GAME
 				sym = 72
 				srfN = srfAttach, 27
 				mass = 0.05
-				temp = -34.87716
+				temp = -40.34627
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30389,7 +30389,7 @@ GAME
 				attN = None, -1
 				attN = bottom2, 27
 				mass = 0.1
-				temp = -26.28846
+				temp = -40.33049
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30421,7 +30421,7 @@ GAME
 				attN = top, 29
 				attN = None, -1
 				mass = 2.25
-				temp = -21.79506
+				temp = -40.2169
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30605,7 +30605,7 @@ GAME
 				sym = 75
 				srfN = srfAttach, 27
 				mass = 0.35
-				temp = -34.84346
+				temp = -40.26117
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30622,15 +30622,15 @@ GAME
 				{
 					name = ModuleDeployableSolarPanel
 					isEnabled = True
-					currentRotation = (0, 0, -0.7071068, 0.7071068)
-					stateString = RETRACTED
+					currentRotation = (0.03963972, 0.03968835, -0.7059997, 0.7059873)
+					stateString = EXTENDED
 					storedAnimationTime = 0
-					storedAnimationSpeed = -1
+					storedAnimationSpeed = 1
 					EVENTS
 					{
 						Extend
 						{
-							active = True
+							active = False
 							guiActive = True
 							guiIcon = Extend Panels
 							guiName = Extend Panels
@@ -30641,7 +30641,7 @@ GAME
 						}
 						Retract
 						{
-							active = False
+							active = True
 							guiActive = True
 							guiIcon = Retract Panels
 							guiName = Retract Panels
@@ -30687,7 +30687,7 @@ GAME
 				sym = 76
 				srfN = srfAttach, 27
 				mass = 0.1
-				temp = -37.31525
+				temp = -40.38937
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30722,7 +30722,7 @@ GAME
 				attN = top, 34
 				attN = bottom, 40
 				mass = 0.4
-				temp = -39.26655
+				temp = -40.45414
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30757,7 +30757,7 @@ GAME
 				attN = top, 35
 				attN = bottom, 33
 				mass = 0.05
-				temp = -39.72564
+				temp = -40.35255
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30773,7 +30773,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -30800,7 +30800,7 @@ GAME
 				attN = top, 36
 				attN = bottom, 34
 				mass = 0.05
-				temp = -40.00327
+				temp = -40.31121
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30816,7 +30816,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -30843,7 +30843,7 @@ GAME
 				attN = top, 37
 				attN = bottom, 35
 				mass = 0.05
-				temp = -40.15269
+				temp = -40.29204
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30859,7 +30859,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -30886,7 +30886,7 @@ GAME
 				attN = top, 38
 				attN = bottom, 36
 				mass = 0.05
-				temp = -40.21642
+				temp = -40.27533
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30902,7 +30902,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -30928,7 +30928,7 @@ GAME
 				srfN = None, -1
 				attN = bottom01, 37
 				mass = 0.03
-				temp = -40.21994
+				temp = -40.24474
 				expt = 0.5
 				state = 1
 				connected = True
@@ -30956,13 +30956,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: dockingPortLateral_2; pos: -1.554194,3.098291,-0.1445438; dir: -0.4481596,0.8929837,-0.04163093
+				cData = tgt: dockingPortLateral_2; pos: -1.554254,3.098174,-0.1445335; dir: -0.4481596,0.8929837,-0.04163093
 				sym = 16
 				sym = 60
 				sym = 83
 				srfN = srfAttach, 38
 				mass = 0.05
-				temp = -40.15875
+				temp = -40.1707
 				expt = 0
 				state = 1
 				connected = True
@@ -30999,7 +30999,7 @@ GAME
 				attN = bottom02, 41
 				attN = bottom03, 43
 				mass = 0.15
-				temp = -40.0225
+				temp = -40.42601
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31034,7 +31034,7 @@ GAME
 				attN = top, 42
 				attN = bottom, 40
 				mass = 0.04
-				temp = -40.09677
+				temp = -40.30564
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31069,7 +31069,7 @@ GAME
 				attN = top, 41
 				attN = None, -1
 				mass = 0.25
-				temp = -40.07608
+				temp = -40.20089
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31165,7 +31165,7 @@ GAME
 				attN = top, 44
 				attN = bottom, 40
 				mass = 0.04
-				temp = -40.06029
+				temp = -40.26848
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31200,7 +31200,7 @@ GAME
 				attN = top, 43
 				attN = None, -1
 				mass = 0.25
-				temp = -40.05793
+				temp = -40.18267
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31296,7 +31296,7 @@ GAME
 				attN = top, 46
 				attN = bottom, 40
 				mass = 0.04
-				temp = -40.02393
+				temp = -40.23154
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31331,7 +31331,7 @@ GAME
 				attN = top, 45
 				attN = None, -1
 				mass = 0.25
-				temp = -40.03986
+				temp = -40.16412
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31425,7 +31425,7 @@ GAME
 				sym = 91
 				srfN = srfAttach, 33
 				mass = 0.35
-				temp = -39.31623
+				temp = -40.18513
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31442,15 +31442,15 @@ GAME
 				{
 					name = ModuleDeployableSolarPanel
 					isEnabled = True
-					currentRotation = (0, 0, -0.7071068, 0.7071068)
-					stateString = RETRACTED
+					currentRotation = (-0.6670601, -0.6671148, 0.2345506, -0.2344667)
+					stateString = EXTENDED
 					storedAnimationTime = 0
-					storedAnimationSpeed = -1
+					storedAnimationSpeed = 1
 					EVENTS
 					{
 						Extend
 						{
-							active = True
+							active = False
 							guiActive = True
 							guiIcon = Extend Panels
 							guiName = Extend Panels
@@ -31461,7 +31461,7 @@ GAME
 						}
 						Retract
 						{
-							active = False
+							active = True
 							guiActive = True
 							guiIcon = Retract Panels
 							guiName = Retract Panels
@@ -31507,7 +31507,7 @@ GAME
 				sym = 92
 				srfN = srfAttach, 32
 				mass = 0.015
-				temp = -37.69147
+				temp = -40.1963
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31581,10 +31581,10 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank.long_6; pos: -0.3190013,0.09530297,-0.2605399; dir: -0.7550025,0.2252302,-0.6158267; rot: -0.6830128,0.1830126,0.1830126,0.6830127
+				cData = tgt: fuelTank.long_6; pos: -0.3193526,0.09531322,-0.2601826; dir: -0.7550025,0.2252302,-0.6158267; rot: 0.5609857,-0.4304593,-0.4304591,-0.5609856
 				srfN = srfAttach, 27
 				mass = 0.05
-				temp = -34.7857
+				temp = -40.17147
 				expt = 0
 				state = 1
 				connected = True
@@ -31619,7 +31619,7 @@ GAME
 				attN = top, 5
 				attN = None, -1
 				mass = 0.5
-				temp = -39.67114
+				temp = -40.5495
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31668,7 +31668,7 @@ GAME
 				sym = 72
 				srfN = srfAttach, 50
 				mass = 0.05
-				temp = -39.66433
+				temp = -40.32179
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31739,7 +31739,7 @@ GAME
 				sym = 75
 				srfN = srfAttach, 50
 				mass = 0.35
-				temp = -39.62502
+				temp = -40.27493
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31756,15 +31756,15 @@ GAME
 				{
 					name = ModuleDeployableSolarPanel
 					isEnabled = True
-					currentRotation = (0, 0, -0.7071068, 0.7071068)
-					stateString = RETRACTED
+					currentRotation = (0.7051298, 0.705039, -0.05324601, 0.05363697)
+					stateString = EXTENDED
 					storedAnimationTime = 0
-					storedAnimationSpeed = -1
+					storedAnimationSpeed = 1
 					EVENTS
 					{
 						Extend
 						{
-							active = True
+							active = False
 							guiActive = True
 							guiIcon = Extend Panels
 							guiName = Extend Panels
@@ -31775,7 +31775,7 @@ GAME
 						}
 						Retract
 						{
-							active = False
+							active = True
 							guiActive = True
 							guiIcon = Retract Panels
 							guiName = Retract Panels
@@ -31821,7 +31821,7 @@ GAME
 				sym = 76
 				srfN = srfAttach, 50
 				mass = 0.1
-				temp = -40.02377
+				temp = -40.39779
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31856,7 +31856,7 @@ GAME
 				attN = top, 55
 				attN = bottom, 61
 				mass = 0.4
-				temp = -40.33202
+				temp = -40.4563
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31891,7 +31891,7 @@ GAME
 				attN = top, 56
 				attN = bottom, 54
 				mass = 0.05
-				temp = -40.29573
+				temp = -40.35351
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31907,7 +31907,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -31934,7 +31934,7 @@ GAME
 				attN = top, 57
 				attN = bottom, 55
 				mass = 0.05
-				temp = -40.2856
+				temp = -40.31155
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31950,7 +31950,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -31977,7 +31977,7 @@ GAME
 				attN = top, 58
 				attN = bottom, 56
 				mass = 0.05
-				temp = -40.28048
+				temp = -40.2921
 				expt = 0.5
 				state = 1
 				connected = True
@@ -31993,7 +31993,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -32020,7 +32020,7 @@ GAME
 				attN = top, 59
 				attN = bottom, 57
 				mass = 0.05
-				temp = -40.26992
+				temp = -40.27534
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32036,7 +32036,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -32062,7 +32062,7 @@ GAME
 				srfN = None, -1
 				attN = bottom01, 58
 				mass = 0.03
-				temp = -40.2406
+				temp = -40.24476
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32090,13 +32090,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: dockingPortLateral_2; pos: -1.588006,3.164413,-0.1467678; dir: -0.4481596,0.8929837,-0.04163093
+				cData = tgt: dockingPortLateral_2; pos: -1.588038,3.164371,-0.1467247; dir: -0.4481596,0.8929837,-0.04163093
 				sym = 16
 				sym = 39
 				sym = 83
 				srfN = srfAttach, 59
 				mass = 0.05
-				temp = -40.1687
+				temp = -40.1707
 				expt = 0
 				state = 1
 				connected = True
@@ -32133,7 +32133,7 @@ GAME
 				attN = bottom02, 62
 				attN = bottom03, 64
 				mass = 0.15
-				temp = -40.38837
+				temp = -40.42658
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32168,7 +32168,7 @@ GAME
 				attN = top, 63
 				attN = bottom, 61
 				mass = 0.04
-				temp = -40.28732
+				temp = -40.30578
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32203,7 +32203,7 @@ GAME
 				attN = top, 62
 				attN = None, -1
 				mass = 0.25
-				temp = -40.1909
+				temp = -40.20102
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32299,7 +32299,7 @@ GAME
 				attN = top, 65
 				attN = bottom, 61
 				mass = 0.04
-				temp = -40.25029
+				temp = -40.26877
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32334,7 +32334,7 @@ GAME
 				attN = top, 64
 				attN = None, -1
 				mass = 0.25
-				temp = -40.1721
+				temp = -40.18273
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32430,7 +32430,7 @@ GAME
 				attN = top, 67
 				attN = bottom, 61
 				mass = 0.04
-				temp = -40.21363
+				temp = -40.23189
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32465,7 +32465,7 @@ GAME
 				attN = top, 66
 				attN = None, -1
 				mass = 0.25
-				temp = -40.15389
+				temp = -40.16417
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32559,7 +32559,7 @@ GAME
 				sym = 91
 				srfN = srfAttach, 54
 				mass = 0.35
-				temp = -40.10843
+				temp = -40.18614
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32576,15 +32576,15 @@ GAME
 				{
 					name = ModuleDeployableSolarPanel
 					isEnabled = True
-					currentRotation = (0, 0, -0.7071068, 0.7071068)
-					stateString = RETRACTED
+					currentRotation = (0.7063721, 0.7063764, -0.03218834, 0.03217091)
+					stateString = EXTENDED
 					storedAnimationTime = 0
-					storedAnimationSpeed = -1
+					storedAnimationSpeed = 1
 					EVENTS
 					{
 						Extend
 						{
-							active = True
+							active = False
 							guiActive = True
 							guiIcon = Extend Panels
 							guiName = Extend Panels
@@ -32595,7 +32595,7 @@ GAME
 						}
 						Retract
 						{
-							active = False
+							active = True
 							guiActive = True
 							guiIcon = Retract Panels
 							guiName = Retract Panels
@@ -32641,7 +32641,7 @@ GAME
 				sym = 92
 				srfN = srfAttach, 53
 				mass = 0.015
-				temp = -39.94671
+				temp = -40.20041
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32715,10 +32715,10 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: stackBiCoupler_73; pos: -0.04887984,-0.4059823,0.05540537; dir: -0.1136237,-0.9841858,0.1358971; rot: -0.4969592,0.500666,-0.500666,0.5016958
+				cData = tgt: stackBiCoupler_73; pos: -0.04901223,-0.4060417,0.05529124; dir: -0.1136237,-0.9841858,0.1358971; rot: 0.1827416,0.1800463,-0.6848144,-0.6820691
 				srfN = srfAttach, 50
 				mass = 0.05
-				temp = -39.55733
+				temp = -40.18798
 				expt = 0
 				state = 1
 				connected = True
@@ -32753,7 +32753,7 @@ GAME
 				attN = top, 5
 				attN = bottom, 73
 				mass = 0.5
-				temp = -34.62709
+				temp = -40.5742
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32769,7 +32769,7 @@ GAME
 				RESOURCE
 				{
 					name = LiquidFuel
-					amount = 274.105792646989
+					amount = 208.634943653741
 					maxAmount = 360
 					flowState = True
 					flowMode = Both
@@ -32777,7 +32777,7 @@ GAME
 				RESOURCE
 				{
 					name = Oxidizer
-					amount = 243.352447975659
+					amount = 163.332502690441
 					maxAmount = 440
 					flowState = True
 					flowMode = Both
@@ -32802,7 +32802,7 @@ GAME
 				sym = 51
 				srfN = srfAttach, 71
 				mass = 0.05
-				temp = -34.86726
+				temp = -40.33407
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32873,7 +32873,7 @@ GAME
 				attN = bottom1, 71
 				attN = None, -1
 				mass = 0.1
-				temp = -26.2814
+				temp = -40.32179
 				expt = 0.5
 				state = 1
 				connected = True
@@ -32905,7 +32905,7 @@ GAME
 				attN = top, 73
 				attN = None, -1
 				mass = 2.25
-				temp = -21.79211
+				temp = -40.21293
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33089,7 +33089,7 @@ GAME
 				sym = 52
 				srfN = srfAttach, 71
 				mass = 0.35
-				temp = -34.83377
+				temp = -40.24928
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33106,15 +33106,15 @@ GAME
 				{
 					name = ModuleDeployableSolarPanel
 					isEnabled = True
-					currentRotation = (0, 0, -0.7071068, 0.7071068)
-					stateString = RETRACTED
+					currentRotation = (0.6486673, 0.64868, -0.2814485, 0.2814813)
+					stateString = EXTENDED
 					storedAnimationTime = 0
-					storedAnimationSpeed = -1
+					storedAnimationSpeed = 1
 					EVENTS
 					{
 						Extend
 						{
-							active = True
+							active = False
 							guiActive = True
 							guiIcon = Extend Panels
 							guiName = Extend Panels
@@ -33125,7 +33125,7 @@ GAME
 						}
 						Retract
 						{
-							active = False
+							active = True
 							guiActive = True
 							guiIcon = Retract Panels
 							guiName = Retract Panels
@@ -33171,7 +33171,7 @@ GAME
 				sym = 53
 				srfN = srfAttach, 71
 				mass = 0.1
-				temp = -37.30914
+				temp = -40.38199
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33206,7 +33206,7 @@ GAME
 				attN = top, 78
 				attN = bottom, 84
 				mass = 0.4
-				temp = -39.26511
+				temp = -40.45212
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33241,7 +33241,7 @@ GAME
 				attN = top, 79
 				attN = bottom, 77
 				mass = 0.05
-				temp = -39.72523
+				temp = -40.35184
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33257,7 +33257,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -33284,7 +33284,7 @@ GAME
 				attN = top, 80
 				attN = bottom, 78
 				mass = 0.05
-				temp = -40.00314
+				temp = -40.31093
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33300,7 +33300,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -33327,7 +33327,7 @@ GAME
 				attN = top, 81
 				attN = bottom, 79
 				mass = 0.05
-				temp = -40.15265
+				temp = -40.29197
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33343,7 +33343,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -33370,7 +33370,7 @@ GAME
 				attN = top, 82
 				attN = bottom, 80
 				mass = 0.05
-				temp = -40.21641
+				temp = -40.27531
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33386,7 +33386,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 957.584278261505
+					amount = 1000
 					maxAmount = 1000
 					flowState = True
 					flowMode = Both
@@ -33412,7 +33412,7 @@ GAME
 				srfN = None, -1
 				attN = bottom01, 81
 				mass = 0.03
-				temp = -40.21994
+				temp = -40.24472
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33440,13 +33440,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: dockingPortLateral_2; pos: -1.589105,3.163662,-0.1475422; dir: -0.4481596,0.8929837,-0.04163093
+				cData = tgt: dockingPortLateral_2; pos: -1.589063,3.163777,-0.1475345; dir: -0.4481596,0.8929837,-0.04163093
 				sym = 16
 				sym = 39
 				sym = 60
 				srfN = srfAttach, 82
 				mass = 0.05
-				temp = -40.15875
+				temp = -40.17069
 				expt = 0
 				state = 1
 				connected = True
@@ -33483,7 +33483,7 @@ GAME
 				attN = bottom02, 85
 				attN = bottom03, 87
 				mass = 0.15
-				temp = -40.02222
+				temp = -40.4254
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33518,7 +33518,7 @@ GAME
 				attN = top, 86
 				attN = bottom, 84
 				mass = 0.04
-				temp = -40.09668
+				temp = -40.30553
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33553,7 +33553,7 @@ GAME
 				attN = top, 85
 				attN = None, -1
 				mass = 0.25
-				temp = -40.07605
+				temp = -40.20078
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33649,7 +33649,7 @@ GAME
 				attN = top, 88
 				attN = bottom, 84
 				mass = 0.04
-				temp = -40.06019
+				temp = -40.2682
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33684,7 +33684,7 @@ GAME
 				attN = top, 87
 				attN = None, -1
 				mass = 0.25
-				temp = -40.05789
+				temp = -40.18263
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33780,7 +33780,7 @@ GAME
 				attN = top, 90
 				attN = bottom, 84
 				mass = 0.04
-				temp = -40.02382
+				temp = -40.23137
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33815,7 +33815,7 @@ GAME
 				attN = top, 89
 				attN = None, -1
 				mass = 0.25
-				temp = -40.03983
+				temp = -40.164
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33909,7 +33909,7 @@ GAME
 				sym = 68
 				srfN = srfAttach, 77
 				mass = 0.35
-				temp = -39.3157
+				temp = -40.18417
 				expt = 0.5
 				state = 1
 				connected = True
@@ -33926,15 +33926,15 @@ GAME
 				{
 					name = ModuleDeployableSolarPanel
 					isEnabled = True
-					currentRotation = (0, 0, -0.7071068, 0.7071068)
-					stateString = RETRACTED
+					currentRotation = (-0.378366, -0.378313, 0.5973604, -0.5973936)
+					stateString = EXTENDED
 					storedAnimationTime = 0
-					storedAnimationSpeed = -1
+					storedAnimationSpeed = 1
 					EVENTS
 					{
 						Extend
 						{
-							active = True
+							active = False
 							guiActive = True
 							guiIcon = Extend Panels
 							guiName = Extend Panels
@@ -33945,7 +33945,7 @@ GAME
 						}
 						Retract
 						{
-							active = False
+							active = True
 							guiActive = True
 							guiIcon = Retract Panels
 							guiName = Retract Panels
@@ -33991,7 +33991,7 @@ GAME
 				sym = 69
 				srfN = srfAttach, 76
 				mass = 0.015
-				temp = -37.68882
+				temp = -40.19255
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34065,10 +34065,10 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank.long_50; pos: -0.3066094,0.02497446,-0.2580195; dir: -0.7647094,0.0633653,-0.6412522; rot: -0.6830127,0.1830129,0.1830125,0.6830127
+				cData = tgt: fuelTank.long_50; pos: -0.3069006,0.02505904,-0.2584641; dir: -0.7647094,0.0633653,-0.6412522; rot: -0.5609856,0.4304595,0.430459,0.5609855
 				srfN = srfAttach, 71
 				mass = 0.05
-				temp = -34.77122
+				temp = -40.15923
 				expt = 0
 				state = 1
 				connected = True
@@ -34105,7 +34105,7 @@ GAME
 				sym = 101
 				srfN = srfAttach, 4
 				mass = 0.075
-				temp = -40.66087
+				temp = -40.84556
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34121,7 +34121,7 @@ GAME
 				RESOURCE
 				{
 					name = MonoPropellant
-					amount = 39.5969673922243
+					amount = 39.5167545791119
 					maxAmount = 40
 					flowState = True
 					flowMode = Both
@@ -34150,7 +34150,7 @@ GAME
 				sym = 101
 				srfN = srfAttach, 4
 				mass = 0.075
-				temp = -40.61576
+				temp = -40.80011
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34166,7 +34166,7 @@ GAME
 				RESOURCE
 				{
 					name = MonoPropellant
-					amount = 39.5969673922243
+					amount = 39.5167545791119
 					maxAmount = 40
 					flowState = True
 					flowMode = Both
@@ -34195,7 +34195,7 @@ GAME
 				sym = 101
 				srfN = srfAttach, 4
 				mass = 0.075
-				temp = -40.5708
+				temp = -40.75465
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34211,7 +34211,7 @@ GAME
 				RESOURCE
 				{
 					name = MonoPropellant
-					amount = 39.5969673922243
+					amount = 39.5167545791119
 					maxAmount = 40
 					flowState = True
 					flowMode = Both
@@ -34240,7 +34240,7 @@ GAME
 				sym = 101
 				srfN = srfAttach, 4
 				mass = 0.075
-				temp = -40.52592
+				temp = -40.70934
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34256,7 +34256,7 @@ GAME
 				RESOURCE
 				{
 					name = MonoPropellant
-					amount = 39.5969673922243
+					amount = 39.5167545791119
 					maxAmount = 40
 					flowState = True
 					flowMode = Both
@@ -34285,7 +34285,7 @@ GAME
 				sym = 101
 				srfN = srfAttach, 4
 				mass = 0.075
-				temp = -40.48112
+				temp = -40.66407
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34301,7 +34301,7 @@ GAME
 				RESOURCE
 				{
 					name = MonoPropellant
-					amount = 39.5969673922243
+					amount = 39.5167545791119
 					maxAmount = 40
 					flowState = True
 					flowMode = Both
@@ -34330,7 +34330,7 @@ GAME
 				sym = 101
 				srfN = srfAttach, 4
 				mass = 0.075
-				temp = -40.43645
+				temp = -40.61904
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34346,7 +34346,7 @@ GAME
 				RESOURCE
 				{
 					name = MonoPropellant
-					amount = 39.5969673922243
+					amount = 39.5167545791119
 					maxAmount = 40
 					flowState = True
 					flowMode = Both
@@ -34375,7 +34375,7 @@ GAME
 				sym = 101
 				srfN = srfAttach, 4
 				mass = 0.075
-				temp = -40.39186
+				temp = -40.5743
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34391,7 +34391,7 @@ GAME
 				RESOURCE
 				{
 					name = MonoPropellant
-					amount = 39.5969673922243
+					amount = 39.5167545791119
 					maxAmount = 40
 					flowState = True
 					flowMode = Both
@@ -34420,7 +34420,7 @@ GAME
 				sym = 100
 				srfN = srfAttach, 4
 				mass = 0.075
-				temp = -40.34737
+				temp = -40.52936
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34436,7 +34436,7 @@ GAME
 				RESOURCE
 				{
 					name = MonoPropellant
-					amount = 39.5969673922243
+					amount = 39.5167545791119
 					maxAmount = 40
 					flowState = True
 					flowMode = Both
@@ -34459,7 +34459,7 @@ GAME
 				sym = 103
 				srfN = srfAttach, 4
 				mass = 0.05
-				temp = -40.30384
+				temp = -40.48641
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34528,7 +34528,7 @@ GAME
 				sym = 102
 				srfN = srfAttach, 4
 				mass = 0.05
-				temp = -40.25817
+				temp = -40.44033
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34594,13 +34594,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: ksp.r.largeBatteryPack_119; pos: -0.0323201,-0.1415921,0.01418677; dir: -0.22141,-0.9702756,0.09768708
+				cData = tgt: ksp.r.largeBatteryPack_119; pos: -0.03233878,-0.1416273,0.01425564; dir: -0.22141,-0.9702756,0.09768708
 				sym = 105
 				sym = 106
 				sym = 107
 				srfN = srfAttach, 4
 				mass = 0.05
-				temp = -40.21257
+				temp = -40.39518
 				expt = 0
 				state = 1
 				connected = True
@@ -34628,13 +34628,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: stackQuadCoupler_5; pos: -0.4927521,-2.159497,0.217067; dir: -0.22141,-0.9702756,0.09768708
+				cData = tgt: stackQuadCoupler_5; pos: -0.4927901,-2.159548,0.2170897; dir: -0.22141,-0.9702756,0.09768708
 				sym = 104
 				sym = 106
 				sym = 107
 				srfN = srfAttach, 4
 				mass = 0.05
-				temp = -40.16621
+				temp = -40.34836
 				expt = 0
 				state = 1
 				connected = True
@@ -34662,13 +34662,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: ksp.r.largeBatteryPack_122; pos: -0.03237693,-0.1417897,0.01417918; dir: -0.22141,-0.9702756,0.09768708
+				cData = tgt: ksp.r.largeBatteryPack_122; pos: -0.03234441,-0.1417611,0.01420735; dir: -0.22141,-0.9702756,0.09768708
 				sym = 104
 				sym = 105
 				sym = 107
 				srfN = srfAttach, 4
 				mass = 0.05
-				temp = -40.11998
+				temp = -40.30174
 				expt = 0
 				state = 1
 				connected = True
@@ -34696,13 +34696,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: stackQuadCoupler_5; pos: -0.4927523,-2.159442,0.2177304; dir: -0.22141,-0.9702756,0.09768708
+				cData = tgt: stackQuadCoupler_5; pos: -0.4927109,-2.159407,0.2178182; dir: -0.22141,-0.9702756,0.09768708
 				sym = 104
 				sym = 105
 				sym = 106
 				srfN = srfAttach, 4
 				mass = 0.05
-				temp = -40.07384
+				temp = -40.25527
 				expt = 0
 				state = 1
 				connected = True
@@ -34733,7 +34733,7 @@ GAME
 				sym = 109
 				srfN = srfAttach, 4
 				mass = 0.35
-				temp = -40.02829
+				temp = -40.20902
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34813,7 +34813,7 @@ GAME
 				sym = 108
 				srfN = srfAttach, 4
 				mass = 0.35
-				temp = -39.9827
+				temp = -40.16284
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34899,7 +34899,7 @@ GAME
 				sym = 117
 				srfN = srfAttach, 4
 				mass = 0.03
-				temp = -39.93508
+				temp = -40.11592
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34915,7 +34915,7 @@ GAME
 				RESOURCE
 				{
 					name = XenonGas
-					amount = 251.095360263719
+					amount = 233.775033168797
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -34944,7 +34944,7 @@ GAME
 				sym = 117
 				srfN = srfAttach, 4
 				mass = 0.03
-				temp = -39.88871
+				temp = -40.06891
 				expt = 0.5
 				state = 1
 				connected = True
@@ -34960,7 +34960,7 @@ GAME
 				RESOURCE
 				{
 					name = XenonGas
-					amount = 251.095360263719
+					amount = 233.775033168797
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -34989,7 +34989,7 @@ GAME
 				sym = 117
 				srfN = srfAttach, 4
 				mass = 0.03
-				temp = -39.84243
+				temp = -40.02219
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35005,7 +35005,7 @@ GAME
 				RESOURCE
 				{
 					name = XenonGas
-					amount = 251.095360263719
+					amount = 233.775033168797
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35034,7 +35034,7 @@ GAME
 				sym = 117
 				srfN = srfAttach, 4
 				mass = 0.03
-				temp = -39.79626
+				temp = -39.97554
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35050,7 +35050,7 @@ GAME
 				RESOURCE
 				{
 					name = XenonGas
-					amount = 251.095360263719
+					amount = 233.775033168797
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35079,7 +35079,7 @@ GAME
 				sym = 117
 				srfN = srfAttach, 4
 				mass = 0.03
-				temp = -39.7502
+				temp = -39.9292
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35095,7 +35095,7 @@ GAME
 				RESOURCE
 				{
 					name = XenonGas
-					amount = 251.095360263719
+					amount = 233.775033168797
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35124,7 +35124,7 @@ GAME
 				sym = 117
 				srfN = srfAttach, 4
 				mass = 0.03
-				temp = -39.70425
+				temp = -39.88301
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35140,7 +35140,7 @@ GAME
 				RESOURCE
 				{
 					name = XenonGas
-					amount = 251.095360263719
+					amount = 233.775033168797
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35169,7 +35169,7 @@ GAME
 				sym = 117
 				srfN = srfAttach, 4
 				mass = 0.03
-				temp = -39.6584
+				temp = -39.83681
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35185,7 +35185,7 @@ GAME
 				RESOURCE
 				{
 					name = XenonGas
-					amount = 251.095360263719
+					amount = 233.775033168797
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35214,7 +35214,7 @@ GAME
 				sym = 116
 				srfN = srfAttach, 4
 				mass = 0.03
-				temp = -39.61268
+				temp = -39.7904
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35230,7 +35230,7 @@ GAME
 				RESOURCE
 				{
 					name = XenonGas
-					amount = 251.095360263719
+					amount = 233.775033168797
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35257,7 +35257,7 @@ GAME
 				sym = 123
 				srfN = srfAttach, 4
 				mass = 0.02
-				temp = -39.56699
+				temp = -39.74426
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35273,7 +35273,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 357.584278261589
+					amount = 400
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35300,7 +35300,7 @@ GAME
 				sym = 123
 				srfN = srfAttach, 4
 				mass = 0.02
-				temp = -39.52146
+				temp = -39.69853
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35316,7 +35316,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 357.584278261589
+					amount = 400
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35343,7 +35343,7 @@ GAME
 				sym = 123
 				srfN = srfAttach, 4
 				mass = 0.02
-				temp = -39.47603
+				temp = -39.65252
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35359,7 +35359,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 357.584278261589
+					amount = 400
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35386,7 +35386,7 @@ GAME
 				sym = 123
 				srfN = srfAttach, 4
 				mass = 0.02
-				temp = -39.43073
+				temp = -39.60703
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35402,7 +35402,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 357.584278261589
+					amount = 400
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35429,7 +35429,7 @@ GAME
 				sym = 123
 				srfN = srfAttach, 4
 				mass = 0.02
-				temp = -39.3855
+				temp = -39.56121
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35445,7 +35445,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 357.584278261589
+					amount = 400
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35472,7 +35472,7 @@ GAME
 				sym = 122
 				srfN = srfAttach, 4
 				mass = 0.02
-				temp = -39.34041
+				temp = -39.51572
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35488,7 +35488,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 357.584278261589
+					amount = 400
 					maxAmount = 400
 					flowState = True
 					flowMode = Both
@@ -35511,7 +35511,7 @@ GAME
 				sym = 125
 				srfN = srfAttach, 0
 				mass = 0.015
-				temp = -40.22919
+				temp = -40.23645
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35588,7 +35588,7 @@ GAME
 				sym = 124
 				srfN = srfAttach, 0
 				mass = 0.015
-				temp = -40.18297
+				temp = -40.19031
 				expt = 0.5
 				state = 1
 				connected = True
@@ -35653,13 +35653,13 @@ GAME
 				Stage = False, 26860541.2873611
 				Gear = True, 0
 				Light = False, 26872147.5606236
-				RCS = False, 26874349.3826158
-				SAS = True, 26874003.0397458
+				RCS = False, 26912312.3430802
+				SAS = True, 26922525.4296691
 				Brakes = False, 0
 				Abort = False, 0
 				Custom01 = False, 26900477.6534225
 				Custom02 = False, 26900458.6334229
-				Custom03 = False, 26900456.5934229
+				Custom03 = True, 26916018.804226
 				Custom04 = False, 0
 				Custom05 = False, 0
 				Custom06 = False, 0
@@ -35696,13 +35696,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 300040.038971456
+				SMA = NaN
 				ECC = 1
 				INC = NaN
-				LPE = 17.5606682462871
-				LAN = -158.018532109279
-				MNA = 3.14159265358979
-				EPH = 26869739.7996019
+				LPE = 66.5612954562452
+				LAN = 80.375741751621
+				MNA = -8.40714670366795
+				EPH = 26902703.3833709
 				REF = 1
 				OBJ = 1
 			}
@@ -35860,13 +35860,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = NaN
+				SMA = 0
 				ECC = 1
 				INC = NaN
-				LPE = 17.5611967136919
-				LAN = -158.018532109279
-				MNA = 0
-				EPH = 26869739.7996019
+				LPE = 66.5618218965802
+				LAN = 80.375741751621
+				MNA = -8.40714670366795
+				EPH = 26902703.3833709
 				REF = 1
 				OBJ = 1
 			}
@@ -36024,13 +36024,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = NaN
+				SMA = 0
 				ECC = 1
 				INC = NaN
-				LPE = 17.5610370853526
-				LAN = -158.018532109279
+				LPE = 66.5616663466266
+				LAN = 80.375741751621
 				MNA = -8.40714670366795
-				EPH = 26869739.7996019
+				EPH = 26902703.3833709
 				REF = 1
 				OBJ = 1
 			}
@@ -36188,13 +36188,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 300040.036645721
+				SMA = 300040.040839353
 				ECC = 1
 				INC = NaN
-				LPE = 17.5605086132799
-				LAN = -158.018532109279
-				MNA = 0.288150375758712
-				EPH = 26869739.7996019
+				LPE = 66.5611344305699
+				LAN = 80.375741751621
+				MNA = 3.14159265358979
+				EPH = 26902703.3833709
 				REF = 1
 				OBJ = 1
 			}

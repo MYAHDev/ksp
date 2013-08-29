@@ -4,7 +4,7 @@ description =
 type = SPH
 PART
 {
-	part = mark3Cockpit_4291779772
+	part = mark3Cockpit_4294753866
 	partName = Part
 	pos = 0,5,0
 	rot = 0.7071068,0,0,0.7071068
@@ -15,10 +15,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = mk3Fuselage_4291779690
-	link = dockingPort1_4291779402
-	attN = top,dockingPort1_4291779402
-	attN = bottom,mk3Fuselage_4291779690
+	link = mk3Fuselage_4294753784
+	link = dockingPort1_4294753496
+	attN = top,dockingPort1_4294753496
+	attN = bottom,mk3Fuselage_4294753784
 	EVENTS
 	{
 	}
@@ -135,7 +135,7 @@ PART
 }
 PART
 {
-	part = mk3Fuselage_4291779690
+	part = mk3Fuselage_4294753784
 	partName = Part
 	pos = 0,5,-2.906251
 	rot = 0.7071068,0,0,0.7071068
@@ -146,18 +146,18 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = mk3Fuselage_4291779660
-	link = wingConnector_4291779570
-	link = wingConnector_4291779542
-	link = strutConnector_4291779110
-	link = strutConnector_4291779054
-	link = strutConnector_4291778550
-	link = strutConnector_4291778494
-	link = strutConnector_4291778438
-	link = strutConnector_4291778382
-	link = SmallGearBay_4291777532
-	attN = top,mark3Cockpit_4291779772
-	attN = bottom,mk3Fuselage_4291779660
+	link = mk3Fuselage_4294753754
+	link = wingConnector_4294753664
+	link = wingConnector_4294753636
+	link = strutConnector_4294753204
+	link = strutConnector_4294753148
+	link = strutConnector_4294752644
+	link = strutConnector_4294752588
+	link = strutConnector_4294752532
+	link = strutConnector_4294752476
+	link = SmallGearBay_4294751626
+	attN = top,mark3Cockpit_4294753866
+	attN = bottom,mk3Fuselage_4294753754
 	EVENTS
 	{
 	}
@@ -167,9 +167,9 @@ PART
 }
 PART
 {
-	part = mk3Fuselage_4291779660
+	part = mk3Fuselage_4294753754
 	partName = Part
-	pos = 0,5,-6.773886
+	pos = 0,5,-6.773892
 	rot = 0.7071068,0,0,0.7071068
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -178,17 +178,17 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = mk3spacePlaneAdapter_4291779630
-	link = wingConnector_4291779514
-	link = wingConnector_4291779486
-	link = strutConnector_4291778998
-	link = strutConnector_4291778942
-	link = strutConnector_4291778886
-	link = strutConnector_4291778830
-	link = strutConnector_4291778662
-	link = strutConnector_4291778606
-	attN = top,mk3Fuselage_4291779690
-	attN = bottom,mk3spacePlaneAdapter_4291779630
+	link = mk3spacePlaneAdapter_4294753724
+	link = wingConnector_4294753608
+	link = wingConnector_4294753580
+	link = strutConnector_4294753092
+	link = strutConnector_4294753036
+	link = strutConnector_4294752980
+	link = strutConnector_4294752924
+	link = strutConnector_4294752756
+	link = strutConnector_4294752700
+	attN = top,mk3Fuselage_4294753784
+	attN = bottom,mk3spacePlaneAdapter_4294753724
 	EVENTS
 	{
 	}
@@ -198,9 +198,9 @@ PART
 }
 PART
 {
-	part = mk3spacePlaneAdapter_4291779630
+	part = mk3spacePlaneAdapter_4294753724
 	partName = Part
-	pos = 0,5,-9.672638
+	pos = 0,5,-9.672644
 	rot = 0.7071068,0,0,0.7071068
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -209,11 +209,11 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = mk2Fuselage_4291779600
-	link = wingConnector_4291779458
-	link = wingConnector_4291779430
-	attN = top,mk3Fuselage_4291779660
-	attN = bottom,mk2Fuselage_4291779600
+	link = mk2Fuselage_4294753694
+	link = wingConnector_4294753552
+	link = wingConnector_4294753524
+	attN = top,mk3Fuselage_4294753754
+	attN = bottom,mk2Fuselage_4294753694
 	EVENTS
 	{
 	}
@@ -223,7 +223,7 @@ PART
 }
 PART
 {
-	part = mk2Fuselage_4291779600
+	part = mk2Fuselage_4294753694
 	partName = Part
 	pos = 0,5,-12.59127
 	rot = 0.7071068,0,0,0.7071068
@@ -234,15 +234,15 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = strutConnector_4291779222
-	link = strutConnector_4291779166
-	link = strutConnector_4291778774
-	link = strutConnector_4291778718
-	link = mk2SpacePlaneAdapter_4291778326
-	link = strutConnector_4291777868
-	link = strutConnector_4291777812
-	attN = top,mk3spacePlaneAdapter_4291779630
-	attN = bottom,mk2SpacePlaneAdapter_4291778326
+	link = strutConnector_4294753316
+	link = strutConnector_4294753260
+	link = strutConnector_4294752868
+	link = strutConnector_4294752812
+	link = mk2SpacePlaneAdapter_4294752420
+	link = strutConnector_4294751962
+	link = strutConnector_4294751906
+	attN = top,mk3spacePlaneAdapter_4294753724
+	attN = bottom,mk2SpacePlaneAdapter_4294752420
 	EVENTS
 	{
 	}
@@ -252,7 +252,7 @@ PART
 }
 PART
 {
-	part = wingConnector_4291779570
+	part = wingConnector_4294753664
 	partName = Winglet
 	pos = -1.218393,5.135376,-2.804874
 	rot = 0.7071069,2.107343E-08,4.214685E-08,0.7071068
@@ -263,9 +263,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = Mk1FuselageStructural_4291777364
-	sym = wingConnector_4291779542
-	srfN = srfAttach,mk3Fuselage_4291779690
+	link = Mk1FuselageStructural_4294751458
+	sym = wingConnector_4294753636
+	srfN = srfAttach,mk3Fuselage_4294753784
 	EVENTS
 	{
 	}
@@ -275,7 +275,7 @@ PART
 }
 PART
 {
-	part = wingConnector_4291779542
+	part = wingConnector_4294753636
 	partName = Winglet
 	pos = 1.218393,5.135376,-2.804874
 	rot = 1.123823E-08,0.7071067,0.7071069,-9.835194E-09
@@ -286,9 +286,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = Mk1FuselageStructural_4291775190
-	sym = wingConnector_4291779570
-	srfN = srfAttach,mk3Fuselage_4291779690
+	link = Mk1FuselageStructural_4294749284
+	sym = wingConnector_4294753664
+	srfN = srfAttach,mk3Fuselage_4294753784
 	EVENTS
 	{
 	}
@@ -298,9 +298,9 @@ PART
 }
 PART
 {
-	part = wingConnector_4291779514
+	part = wingConnector_4294753608
 	partName = Winglet
-	pos = -1.218393,5.117039,-6.038801
+	pos = -1.218393,5.117039,-6.038806
 	rot = 0.7071069,2.107343E-08,4.214685E-08,0.7071068
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -309,8 +309,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = wingConnector_4291779486
-	srfN = srfAttach,mk3Fuselage_4291779660
+	sym = wingConnector_4294753580
+	srfN = srfAttach,mk3Fuselage_4294753754
 	EVENTS
 	{
 	}
@@ -320,9 +320,9 @@ PART
 }
 PART
 {
-	part = wingConnector_4291779486
+	part = wingConnector_4294753580
 	partName = Winglet
-	pos = 1.218393,5.117039,-6.038801
+	pos = 1.218393,5.117039,-6.038806
 	rot = 1.123823E-08,0.7071067,0.7071069,-9.835194E-09
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -331,8 +331,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = wingConnector_4291779514
-	srfN = srfAttach,mk3Fuselage_4291779660
+	sym = wingConnector_4294753608
+	srfN = srfAttach,mk3Fuselage_4294753754
 	EVENTS
 	{
 	}
@@ -342,9 +342,9 @@ PART
 }
 PART
 {
-	part = wingConnector_4291779458
+	part = wingConnector_4294753552
 	partName = Winglet
-	pos = -1.218393,5.11002,-9.506185
+	pos = -1.218393,5.11002,-9.506189
 	rot = 0.7071069,2.107343E-08,4.214685E-08,0.7071068
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -353,9 +353,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = smallCtrlSrf_4291779310
-	sym = wingConnector_4291779430
-	srfN = srfAttach,mk3spacePlaneAdapter_4291779630
+	link = smallCtrlSrf_4294753404
+	sym = wingConnector_4294753524
+	srfN = srfAttach,mk3spacePlaneAdapter_4294753724
 	EVENTS
 	{
 	}
@@ -365,9 +365,9 @@ PART
 }
 PART
 {
-	part = wingConnector_4291779430
+	part = wingConnector_4294753524
 	partName = Winglet
-	pos = 1.218393,5.11002,-9.506185
+	pos = 1.218393,5.11002,-9.506189
 	rot = 1.123823E-08,0.7071067,0.7071069,-9.835194E-09
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -376,9 +376,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = smallCtrlSrf_4291779266
-	sym = wingConnector_4291779458
-	srfN = srfAttach,mk3spacePlaneAdapter_4291779630
+	link = smallCtrlSrf_4294753360
+	sym = wingConnector_4294753552
+	srfN = srfAttach,mk3spacePlaneAdapter_4294753724
 	EVENTS
 	{
 	}
@@ -388,9 +388,9 @@ PART
 }
 PART
 {
-	part = dockingPort1_4291779402
+	part = dockingPort1_4294753496
 	partName = Part
-	pos = 0,5,0.9553279
+	pos = 0,5,0.9553288
 	rot = 0.7071068,0,0,0.7071068
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -399,7 +399,7 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	attN = bottom,mark3Cockpit_4291779772
+	attN = bottom,mark3Cockpit_4294753866
 	EVENTS
 	{
 	}
@@ -548,7 +548,7 @@ PART
 }
 PART
 {
-	part = smallCtrlSrf_4291779310
+	part = smallCtrlSrf_4294753404
 	partName = ControlSurface
 	pos = -2.062593,5.110023,-11.39571
 	rot = 0.7071068,-2.107342E-08,-2.107342E-08,0.7071069
@@ -559,8 +559,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = smallCtrlSrf_4291779266
-	srfN = srfAttach,wingConnector_4291779458
+	sym = smallCtrlSrf_4294753360
+	srfN = srfAttach,wingConnector_4294753552
 	EVENTS
 	{
 	}
@@ -570,10 +570,10 @@ PART
 }
 PART
 {
-	part = smallCtrlSrf_4291779266
+	part = smallCtrlSrf_4294753360
 	partName = ControlSurface
 	pos = 2.062593,5.11002,-11.39571
-	rot = -5.198149E-08,0.7071069,0.7071068,-5.198197E-08
+	rot = -5.198146E-08,0.7071069,0.7071068,-5.198197E-08
 	attRot = 0.7071067,0,0,0.7071067
 	mir = 1,1,1
 	istg = 0
@@ -581,8 +581,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = smallCtrlSrf_4291779310
-	srfN = srfAttach,wingConnector_4291779430
+	sym = smallCtrlSrf_4294753404
+	srfN = srfAttach,wingConnector_4294753524
 	EVENTS
 	{
 	}
@@ -592,7 +592,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291779222
+	part = strutConnector_4294753316
 	partName = StrutConnector
 	pos = -1.199797,5,-14.48689
 	rot = 0.4999997,-0.5000002,0.5000002,0.5000002
@@ -603,8 +603,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291779166
-	srfN = srfAttach,mk2Fuselage_4291779600
+	sym = strutConnector_4294753260
+	srfN = srfAttach,mk2Fuselage_4294753694
 	EVENTS
 	{
 	}
@@ -614,7 +614,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291779166
+	part = strutConnector_4294753260
 	partName = StrutConnector
 	pos = 1.199797,5,-14.48689
 	rot = 0.5,0.5000002,0.5,-0.5000002
@@ -625,8 +625,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291779222
-	srfN = srfAttach,mk2Fuselage_4291779600
+	sym = strutConnector_4294753316
+	srfN = srfAttach,mk2Fuselage_4294753694
 	EVENTS
 	{
 	}
@@ -636,7 +636,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291779110
+	part = strutConnector_4294753204
 	partName = StrutConnector
 	pos = 0.5831478,6.443463,-1.873655
 	rot = -0.3936725,0.5873857,0.587386,-0.3936722
@@ -647,8 +647,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291779054
-	srfN = srfAttach,mk3Fuselage_4291779690
+	sym = strutConnector_4294753148
+	srfN = srfAttach,mk3Fuselage_4294753784
 	EVENTS
 	{
 	}
@@ -658,7 +658,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291779054
+	part = strutConnector_4294753148
 	partName = StrutConnector
 	pos = -0.5831478,6.443463,-1.873655
 	rot = -0.5873861,0.3936722,0.3936725,-0.5873857
@@ -669,8 +669,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291779110
-	srfN = srfAttach,mk3Fuselage_4291779690
+	sym = strutConnector_4294753204
+	srfN = srfAttach,mk3Fuselage_4294753784
 	EVENTS
 	{
 	}
@@ -680,9 +680,9 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778998
+	part = strutConnector_4294753092
 	partName = StrutConnector
-	pos = 0.5499539,6.457108,-5.881958
+	pos = 0.5499539,6.457108,-5.881961
 	rot = -0.3936725,0.5873857,0.587386,-0.3936722
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -691,8 +691,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291778942
-	srfN = srfAttach,mk3Fuselage_4291779660
+	sym = strutConnector_4294753036
+	srfN = srfAttach,mk3Fuselage_4294753754
 	EVENTS
 	{
 	}
@@ -702,9 +702,9 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778942
+	part = strutConnector_4294753036
 	partName = StrutConnector
-	pos = -0.5499539,6.457108,-5.881958
+	pos = -0.5499539,6.457108,-5.881961
 	rot = -0.5873861,0.3936722,0.3936725,-0.5873857
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -713,8 +713,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291778998
-	srfN = srfAttach,mk3Fuselage_4291779660
+	sym = strutConnector_4294753092
+	srfN = srfAttach,mk3Fuselage_4294753754
 	EVENTS
 	{
 	}
@@ -724,9 +724,9 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778886
+	part = strutConnector_4294752980
 	partName = StrutConnector
-	pos = 0.7195079,6.387434,-7.957651
+	pos = 0.7195079,6.387434,-7.957657
 	rot = -0.3936725,0.5873857,0.587386,-0.3936722
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -735,8 +735,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291778830
-	srfN = srfAttach,mk3Fuselage_4291779660
+	sym = strutConnector_4294752924
+	srfN = srfAttach,mk3Fuselage_4294753754
 	EVENTS
 	{
 	}
@@ -746,9 +746,9 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778830
+	part = strutConnector_4294752924
 	partName = StrutConnector
-	pos = -0.7195079,6.387434,-7.957651
+	pos = -0.7195079,6.387434,-7.957657
 	rot = -0.5873861,0.3936722,0.3936725,-0.5873857
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -757,8 +757,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291778886
-	srfN = srfAttach,mk3Fuselage_4291779660
+	sym = strutConnector_4294752980
+	srfN = srfAttach,mk3Fuselage_4294753754
 	EVENTS
 	{
 	}
@@ -768,7 +768,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778774
+	part = strutConnector_4294752868
 	partName = StrutConnector
 	pos = -0.0260924,5.862957,-14.48688
 	rot = 0.7071068,0,0.7071068,0
@@ -779,7 +779,7 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	srfN = srfAttach,mk2Fuselage_4291779600
+	srfN = srfAttach,mk2Fuselage_4294753694
 	EVENTS
 	{
 	}
@@ -789,7 +789,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778718
+	part = strutConnector_4294752812
 	partName = StrutConnector
 	pos = 0.01840123,4.37426,-14.48689
 	rot = 0.7071068,0,0.7071068,0
@@ -800,7 +800,7 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	srfN = srfAttach,mk2Fuselage_4291779600
+	srfN = srfAttach,mk2Fuselage_4294753694
 	EVENTS
 	{
 	}
@@ -810,9 +810,9 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778662
+	part = strutConnector_4294752756
 	partName = StrutConnector
-	pos = -1.182833,5.524585,-7.467232
+	pos = -1.182833,5.524585,-7.467237
 	rot = -0.7063557,0.03258596,0.03258603,-0.7063556
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -821,9 +821,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_46; pos: -1.801373,-3.918073,0.237205; dir: -0.4170958,-0.9072014,0.05492357
-	sym = strutConnector_4291778606
-	srfN = srfAttach,mk3Fuselage_4291779660
+	cData = tgt: Mk1FuselageStructural_46; pos: -1.801374,-3.918074,0.2372056; dir: -0.4170958,-0.9072014,0.05492357
+	sym = strutConnector_4294752700
+	srfN = srfAttach,mk3Fuselage_4294753754
 	EVENTS
 	{
 	}
@@ -833,9 +833,9 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778606
+	part = strutConnector_4294752700
 	partName = StrutConnector
-	pos = 1.182833,5.524585,-7.467232
+	pos = 1.182833,5.524585,-7.467237
 	rot = -0.03258605,0.7063556,0.7063557,-0.03258597
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -844,9 +844,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_92; pos: -1.801378,-3.918077,-0.2372041; dir: -0.417096,-0.9072019,-0.05492317
-	sym = strutConnector_4291778662
-	srfN = srfAttach,mk3Fuselage_4291779660
+	cData = tgt: Mk1FuselageStructural_92; pos: -1.801377,-3.918077,-0.2372036; dir: -0.417096,-0.9072019,-0.05492317
+	sym = strutConnector_4294752756
+	srfN = srfAttach,mk3Fuselage_4294753754
 	EVENTS
 	{
 	}
@@ -856,7 +856,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778550
+	part = strutConnector_4294752644
 	partName = StrutConnector
 	pos = -1.177222,5.591827,-1.412173
 	rot = -0.706377,0.03211999,0.03180723,-0.706391
@@ -867,9 +867,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_43; pos: -1.966627,-3.017501,0.1488677; dir: -0.5455475,-0.8370618,0.04129663
-	sym = strutConnector_4291778494
-	srfN = srfAttach,mk3Fuselage_4291779690
+	cData = tgt: Mk1FuselageStructural_43; pos: -1.966628,-3.017502,0.1488683; dir: -0.5455475,-0.8370618,0.04129663
+	sym = strutConnector_4294752588
+	srfN = srfAttach,mk3Fuselage_4294753784
 	EVENTS
 	{
 	}
@@ -879,7 +879,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778494
+	part = strutConnector_4294752588
 	partName = StrutConnector
 	pos = 1.177222,5.591827,-1.412173
 	rot = -0.03180725,0.706391,0.706377,-0.03212002
@@ -891,8 +891,8 @@ PART
 	sqor = -1
 	attm = 1
 	cData = tgt: Mk1FuselageStructural_89; pos: -1.966632,-3.017507,-0.1488673; dir: -0.5455476,-0.8370621,-0.04129648
-	sym = strutConnector_4291778550
-	srfN = srfAttach,mk3Fuselage_4291779690
+	sym = strutConnector_4294752644
+	srfN = srfAttach,mk3Fuselage_4294753784
 	EVENTS
 	{
 	}
@@ -902,9 +902,9 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778438
+	part = strutConnector_4294752532
 	partName = StrutConnector
-	pos = -1.170887,5.653776,-4.654147
+	pos = -1.170887,5.653776,-4.65415
 	rot = -0.7063557,0.03258596,0.03258603,-0.7063556
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -913,8 +913,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_42; pos: -1.927351,2.092708,0.2429302; dir: -0.674992,0.7329033,0.08507878
-	srfN = srfAttach,mk3Fuselage_4291779690
+	cData = tgt: Mk1FuselageStructural_42; pos: -1.927351,2.092708,0.2429306; dir: -0.674992,0.7329033,0.08507878
+	srfN = srfAttach,mk3Fuselage_4294753784
 	EVENTS
 	{
 	}
@@ -924,9 +924,9 @@ PART
 }
 PART
 {
-	part = strutConnector_4291778382
+	part = strutConnector_4294752476
 	partName = StrutConnector
-	pos = 1.168557,5.681904,-4.240031
+	pos = 1.168557,5.681904,-4.240034
 	rot = -0.03242659,0.7063628,0.7063482,-0.03274546
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -936,7 +936,7 @@ PART
 	sqor = -1
 	attm = 1
 	cData = tgt: Mk1FuselageStructural_88; pos: -1.931932,1.732928,-0.2664754; dir: -0.740513,0.6642347,-0.102141
-	srfN = srfAttach,mk3Fuselage_4291779690
+	srfN = srfAttach,mk3Fuselage_4294753784
 	EVENTS
 	{
 	}
@@ -946,7 +946,7 @@ PART
 }
 PART
 {
-	part = mk2SpacePlaneAdapter_4291778326
+	part = mk2SpacePlaneAdapter_4294752420
 	partName = Part
 	pos = 3.375078E-15,5,-15.47753
 	rot = -1.256074E-15,-0.7071068,0.7071069,-1.256074E-15
@@ -957,9 +957,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = airplaneTail_4291778300
-	attN = top,airplaneTail_4291778300
-	attN = bottom,mk2Fuselage_4291779600
+	link = airplaneTail_4294752394
+	attN = top,airplaneTail_4294752394
+	attN = bottom,mk2Fuselage_4294753694
 	EVENTS
 	{
 	}
@@ -969,10 +969,10 @@ PART
 }
 PART
 {
-	part = airplaneTail_4291778300
+	part = airplaneTail_4294752394
 	partName = Strut
 	pos = 6.750155E-15,5,-16.42753
-	rot = 0.7071069,1.323485E-21,1.323484E-21,0.7071068
+	rot = 0.7071069,1.482303E-21,1.482302E-21,0.7071068
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -980,18 +980,18 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = AdvancedCanard_4291778272
-	link = AdvancedCanard_4291778236
-	link = CanardController_4291778200
-	link = AdvancedCanard_4291778160
-	link = AdvancedCanard_4291778124
-	link = AdvancedCanard_4291778088
-	link = AdvancedCanard_4291778052
-	link = strutConnector_4291777756
-	link = strutConnector_4291777700
-	link = strutConnector_4291777644
-	link = strutConnector_4291777588
-	attN = top,mk2SpacePlaneAdapter_4291778326
+	link = AdvancedCanard_4294752366
+	link = AdvancedCanard_4294752330
+	link = CanardController_4294752294
+	link = AdvancedCanard_4294752254
+	link = AdvancedCanard_4294752218
+	link = AdvancedCanard_4294752182
+	link = AdvancedCanard_4294752146
+	link = strutConnector_4294751850
+	link = strutConnector_4294751794
+	link = strutConnector_4294751738
+	link = strutConnector_4294751682
+	attN = top,mk2SpacePlaneAdapter_4294752420
 	EVENTS
 	{
 	}
@@ -1001,7 +1001,7 @@ PART
 }
 PART
 {
-	part = AdvancedCanard_4291778272
+	part = AdvancedCanard_4294752366
 	partName = ControlSurface
 	pos = -0.2695797,5.042731,-19.4753
 	rot = 0.7061933,-0.03593153,0.03593159,0.7061933
@@ -1012,9 +1012,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = sweptWing_4291777942
-	sym = AdvancedCanard_4291778236
-	srfN = srfAttach,airplaneTail_4291778300
+	link = sweptWing_4294752036
+	sym = AdvancedCanard_4294752330
+	srfN = srfAttach,airplaneTail_4294752394
 	EVENTS
 	{
 	}
@@ -1024,7 +1024,7 @@ PART
 }
 PART
 {
-	part = AdvancedCanard_4291778236
+	part = AdvancedCanard_4294752330
 	partName = ControlSurface
 	pos = 0.2695798,5.042731,-19.4753
 	rot = 0.03593157,0.7061931,0.7061934,-0.03593157
@@ -1035,9 +1035,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = sweptWing_4291778016
-	sym = AdvancedCanard_4291778272
-	srfN = srfAttach,airplaneTail_4291778300
+	link = sweptWing_4294752110
+	sym = AdvancedCanard_4294752366
+	srfN = srfAttach,airplaneTail_4294752394
 	EVENTS
 	{
 	}
@@ -1047,7 +1047,7 @@ PART
 }
 PART
 {
-	part = CanardController_4291778200
+	part = CanardController_4294752294
 	partName = ControlSurface
 	pos = -3.72529E-08,5.220056,-19.96544
 	rot = -0.4726197,0.5241799,0.4743869,-0.52614
@@ -1058,7 +1058,7 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	srfN = srfAttach,airplaneTail_4291778300
+	srfN = srfAttach,airplaneTail_4294752394
 	EVENTS
 	{
 	}
@@ -1068,7 +1068,7 @@ PART
 }
 PART
 {
-	part = AdvancedCanard_4291778160
+	part = AdvancedCanard_4294752254
 	partName = ControlSurface
 	pos = -0.4363512,5.020329,-17.8407
 	rot = 0.7061933,-0.03593159,0.03593152,0.7061933
@@ -1079,8 +1079,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = AdvancedCanard_4291778124
-	srfN = srfAttach,airplaneTail_4291778300
+	sym = AdvancedCanard_4294752218
+	srfN = srfAttach,airplaneTail_4294752394
 	EVENTS
 	{
 	}
@@ -1090,7 +1090,7 @@ PART
 }
 PART
 {
-	part = AdvancedCanard_4291778124
+	part = AdvancedCanard_4294752218
 	partName = ControlSurface
 	pos = 0.4363512,5.020329,-17.8407
 	rot = 0.03593149,0.7061931,0.7061934,-0.03593163
@@ -1101,8 +1101,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = AdvancedCanard_4291778160
-	srfN = srfAttach,airplaneTail_4291778300
+	sym = AdvancedCanard_4294752254
+	srfN = srfAttach,airplaneTail_4294752394
 	EVENTS
 	{
 	}
@@ -1112,7 +1112,7 @@ PART
 }
 PART
 {
-	part = AdvancedCanard_4291778088
+	part = AdvancedCanard_4294752182
 	partName = ControlSurface
 	pos = -0.5663565,5.029703,-16.56646
 	rot = 0.7061933,-0.03593159,0.03593152,0.7061933
@@ -1123,8 +1123,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = AdvancedCanard_4291778052
-	srfN = srfAttach,airplaneTail_4291778300
+	sym = AdvancedCanard_4294752146
+	srfN = srfAttach,airplaneTail_4294752394
 	EVENTS
 	{
 	}
@@ -1134,7 +1134,7 @@ PART
 }
 PART
 {
-	part = AdvancedCanard_4291778052
+	part = AdvancedCanard_4294752146
 	partName = ControlSurface
 	pos = 0.5663565,5.029703,-16.56646
 	rot = 0.03593149,0.7061931,0.7061934,-0.03593163
@@ -1145,8 +1145,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = AdvancedCanard_4291778088
-	srfN = srfAttach,airplaneTail_4291778300
+	sym = AdvancedCanard_4294752182
+	srfN = srfAttach,airplaneTail_4294752394
 	EVENTS
 	{
 	}
@@ -1156,10 +1156,10 @@ PART
 }
 PART
 {
-	part = sweptWing_4291778016
+	part = sweptWing_4294752110
 	partName = Winglet
 	pos = 0.3101647,5.053606,-19.4457
-	rot = 0.7007875,0.09256823,0.09202349,0.7013274
+	rot = 0.7007874,0.09256821,0.09202347,0.7013273
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -1167,9 +1167,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = StandardCtrlSrf_4291777988
-	sym = sweptWing_4291777942
-	srfN = srfAttach,AdvancedCanard_4291778236
+	link = StandardCtrlSrf_4294752082
+	sym = sweptWing_4294752036
+	srfN = srfAttach,AdvancedCanard_4294752330
 	EVENTS
 	{
 	}
@@ -1179,9 +1179,9 @@ PART
 }
 PART
 {
-	part = StandardCtrlSrf_4291777988
+	part = StandardCtrlSrf_4294752082
 	partName = ControlSurface
-	pos = 2.791329,5.713573,-20.60256
+	pos = 2.791331,5.713573,-20.60256
 	rot = 0.8728459,0.1812904,-0.0261573,0.4523161
 	attRot = 0.5471546,-0.4489208,0.526384,0.4711827
 	mir = 1,1,1
@@ -1190,8 +1190,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = StandardCtrlSrf_4291777914
-	srfN = srfAttach,sweptWing_4291778016
+	sym = StandardCtrlSrf_4294752008
+	srfN = srfAttach,sweptWing_4294752110
 	EVENTS
 	{
 	}
@@ -1201,7 +1201,7 @@ PART
 }
 PART
 {
-	part = sweptWing_4291777942
+	part = sweptWing_4294752036
 	partName = Winglet
 	pos = -0.3101647,5.053606,-19.4457
 	rot = 0.0920236,0.7013273,0.7007874,0.09256826
@@ -1212,9 +1212,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = StandardCtrlSrf_4291777914
-	sym = sweptWing_4291778016
-	srfN = srfAttach,AdvancedCanard_4291778272
+	link = StandardCtrlSrf_4294752008
+	sym = sweptWing_4294752110
+	srfN = srfAttach,AdvancedCanard_4294752366
 	EVENTS
 	{
 	}
@@ -1224,9 +1224,9 @@ PART
 }
 PART
 {
-	part = StandardCtrlSrf_4291777914
+	part = StandardCtrlSrf_4294752008
 	partName = ControlSurface
-	pos = -2.791345,5.713573,-20.60256
+	pos = -2.791348,5.713573,-20.60256
 	rot = 0.8728462,-0.1812903,0.02615721,0.4523154
 	attRot = 0.5471546,-0.4489208,0.526384,0.4711827
 	mir = 1,1,1
@@ -1235,8 +1235,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = StandardCtrlSrf_4291777988
-	srfN = srfAttach,sweptWing_4291777942
+	sym = StandardCtrlSrf_4294752082
+	srfN = srfAttach,sweptWing_4294752036
 	EVENTS
 	{
 	}
@@ -1246,7 +1246,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291777868
+	part = strutConnector_4294751962
 	partName = StrutConnector
 	pos = -1.085187,5.290775,-11.76703
 	rot = -0.7010575,0.09229582,0.09229614,-0.7010574
@@ -1257,9 +1257,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_44; pos: -1.956809,4.759394,0.2707968; dir: -0.3797356,0.9236012,0.05255067
-	sym = strutConnector_4291777812
-	srfN = srfAttach,mk2Fuselage_4291779600
+	cData = tgt: Mk1FuselageStructural_44; pos: -1.95681,4.759394,0.270798; dir: -0.3797356,0.9236012,0.05255067
+	sym = strutConnector_4294751906
+	srfN = srfAttach,mk2Fuselage_4294753694
 	EVENTS
 	{
 	}
@@ -1269,7 +1269,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291777812
+	part = strutConnector_4294751906
 	partName = StrutConnector
 	pos = 1.085187,5.290775,-11.76703
 	rot = -0.09229616,0.7010573,0.7010575,-0.09229584
@@ -1280,9 +1280,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_90; pos: -1.956811,4.759397,-0.2707975; dir: -0.3797356,0.9236013,-0.0525508
-	sym = strutConnector_4291777868
-	srfN = srfAttach,mk2Fuselage_4291779600
+	cData = tgt: Mk1FuselageStructural_90; pos: -1.956811,4.759398,-0.2707971; dir: -0.3797356,0.9236013,-0.0525508
+	sym = strutConnector_4294751962
+	srfN = srfAttach,mk2Fuselage_4294753694
 	EVENTS
 	{
 	}
@@ -1292,7 +1292,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291777756
+	part = strutConnector_4294751850
 	partName = StrutConnector
 	pos = 0.1851579,5.320697,-18.46843
 	rot = -0.3226455,0.6291153,0.593254,-0.3849203
@@ -1303,9 +1303,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: mk3spacePlaneAdapter_3; pos: -0.1408704,9.671924,-0.3586244; dir: -0.01455299,0.9992074,-0.03704944
-	sym = strutConnector_4291777700
-	srfN = srfAttach,airplaneTail_4291778300
+	cData = tgt: mk3spacePlaneAdapter_3; pos: -0.1408708,9.671917,-0.358624; dir: -0.01455299,0.9992074,-0.03704944
+	sym = strutConnector_4294751794
+	srfN = srfAttach,airplaneTail_4294752394
 	EVENTS
 	{
 	}
@@ -1315,7 +1315,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291777700
+	part = strutConnector_4294751794
 	partName = StrutConnector
 	pos = -0.1851579,5.320697,-18.46843
 	rot = -0.593254,0.3849203,0.3226455,-0.6291153
@@ -1326,9 +1326,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: mk3spacePlaneAdapter_3; pos: -0.1408675,9.671912,0.3586251; dir: -0.0145527,0.9992077,0.03704955
-	sym = strutConnector_4291777756
-	srfN = srfAttach,airplaneTail_4291778300
+	cData = tgt: mk3spacePlaneAdapter_3; pos: -0.140867,9.671906,0.3586249; dir: -0.0145527,0.9992077,0.03704955
+	sym = strutConnector_4294751850
+	srfN = srfAttach,airplaneTail_4294752394
 	EVENTS
 	{
 	}
@@ -1338,7 +1338,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291777644
+	part = strutConnector_4294751738
 	partName = StrutConnector
 	pos = 0.2438104,4.756183,-18.86664
 	rot = -0.3060862,-0.6427318,-0.6614259,-0.236057
@@ -1349,9 +1349,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: mk2SpacePlaneAdapter_9; pos: 0.1368314,2.436822,0.02032909; dir: 0.05606148,0.9983926,0.008328978
-	sym = strutConnector_4291777588
-	srfN = srfAttach,airplaneTail_4291778300
+	cData = tgt: mk2SpacePlaneAdapter_9; pos: 0.1368314,2.436823,0.02032909; dir: 0.05606148,0.9983926,0.008328978
+	sym = strutConnector_4294751682
+	srfN = srfAttach,airplaneTail_4294752394
 	EVENTS
 	{
 	}
@@ -1361,7 +1361,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291777588
+	part = strutConnector_4294751682
 	partName = StrutConnector
 	pos = -0.2438104,4.756183,-18.86664
 	rot = -0.6614261,-0.2360571,-0.3060864,-0.6427315
@@ -1372,9 +1372,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: mk2SpacePlaneAdapter_9; pos: 0.1368316,2.436822,-0.02033007; dir: 0.05606154,0.9983929,-0.00832942
-	sym = strutConnector_4291777644
-	srfN = srfAttach,airplaneTail_4291778300
+	cData = tgt: mk2SpacePlaneAdapter_9; pos: 0.1368316,2.436823,-0.02033009; dir: 0.05606154,0.9983929,-0.00832942
+	sym = strutConnector_4294751738
+	srfN = srfAttach,airplaneTail_4294752394
 	EVENTS
 	{
 	}
@@ -1384,10 +1384,10 @@ PART
 }
 PART
 {
-	part = SmallGearBay_4291777532
+	part = SmallGearBay_4294751626
 	partName = Part
 	pos = 8.544804E-08,4.206338,-1.810212
-	rot = -2.528811E-07,-2.119813E-08,-8.742287E-08,-1
+	rot = -2.528811E-07,-2.119813E-08,-8.74229E-08,-1
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -1395,7 +1395,7 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	srfN = srfAttach,mk3Fuselage_4291779690
+	srfN = srfAttach,mk3Fuselage_4294753784
 	EVENTS
 	{
 	}
@@ -1496,7 +1496,7 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291777364
+	part = Mk1FuselageStructural_4294751458
 	partName = Strut
 	pos = -3.507703,5.135376,-1.438262
 	rot = -0.5000001,0.5000001,0.5000001,-0.5000001
@@ -1507,12 +1507,12 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = Mk1FuselageStructural_4291777336
-	link = adapterLargeSmallQuad_4291775360
-	sym = Mk1FuselageStructural_4291775190
-	srfN = srfAttach,wingConnector_4291779570
-	attN = top,adapterLargeSmallQuad_4291775360
-	attN = bottom,Mk1FuselageStructural_4291777336
+	link = Mk1FuselageStructural_4294751430
+	link = adapterLargeSmallQuad_4294749454
+	sym = Mk1FuselageStructural_4294749284
+	srfN = srfAttach,wingConnector_4294753664
+	attN = top,adapterLargeSmallQuad_4294749454
+	attN = bottom,Mk1FuselageStructural_4294751430
 	EVENTS
 	{
 	}
@@ -1522,10 +1522,10 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291777336
+	part = Mk1FuselageStructural_4294751430
 	partName = Strut
-	pos = -3.507712,5.135382,-3.325792
-	rot = -0.6532817,-0.2705966,-0.2705974,-0.6532825
+	pos = -3.507712,5.135382,-3.325795
+	rot = -0.6532816,-0.2705965,-0.2705971,-0.6532826
 	attRot = 3.284302E-17,2.280972E-08,0.3826835,0.9238796
 	mir = 1,1,1
 	istg = 0
@@ -1533,13 +1533,13 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = Mk1FuselageStructural_4291777308
-	link = deltaWing_4291776588
-	link = strutConnector_4291775472
-	link = strutConnector_4291775416
-	sym = Mk1FuselageStructural_4291775162
-	attN = top,Mk1FuselageStructural_4291777364
-	attN = bottom,Mk1FuselageStructural_4291777308
+	link = Mk1FuselageStructural_4294751402
+	link = deltaWing_4294750682
+	link = strutConnector_4294749566
+	link = strutConnector_4294749510
+	sym = Mk1FuselageStructural_4294749256
+	attN = top,Mk1FuselageStructural_4294751458
+	attN = bottom,Mk1FuselageStructural_4294751402
 	EVENTS
 	{
 	}
@@ -1549,10 +1549,10 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291777308
+	part = Mk1FuselageStructural_4294751402
 	partName = Strut
-	pos = -3.507711,5.135384,-5.213271
-	rot = -0.7071072,1.10834E-07,-6.508915E-07,-0.7071066
+	pos = -3.507711,5.135384,-5.213275
+	rot = -0.7071071,5.831572E-08,-7.175826E-07,-0.7071065
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -1560,10 +1560,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = Mk1FuselageStructural_4291777280
-	sym = Mk1FuselageStructural_4291775134
-	attN = top,Mk1FuselageStructural_4291777336
-	attN = bottom,Mk1FuselageStructural_4291777280
+	link = Mk1FuselageStructural_4294751374
+	sym = Mk1FuselageStructural_4294749228
+	attN = top,Mk1FuselageStructural_4294751430
+	attN = bottom,Mk1FuselageStructural_4294751374
 	EVENTS
 	{
 	}
@@ -1573,10 +1573,10 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291777280
+	part = Mk1FuselageStructural_4294751374
 	partName = Strut
-	pos = -3.507701,5.135376,-7.100827
-	rot = -0.7071072,2.256054E-07,-2.29221E-07,-0.7071066
+	pos = -3.507701,5.135376,-7.100834
+	rot = -0.7071071,2.554077E-07,-1.994187E-07,-0.7071065
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -1584,12 +1584,12 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = Mk1FuselageStructural_4291777252
-	link = strutConnector_4291776700
-	link = strutConnector_4291776644
-	sym = Mk1FuselageStructural_4291775106
-	attN = top,Mk1FuselageStructural_4291777308
-	attN = bottom,Mk1FuselageStructural_4291777252
+	link = Mk1FuselageStructural_4294751346
+	link = strutConnector_4294750794
+	link = strutConnector_4294750738
+	sym = Mk1FuselageStructural_4294749200
+	attN = top,Mk1FuselageStructural_4294751402
+	attN = bottom,Mk1FuselageStructural_4294751346
 	EVENTS
 	{
 	}
@@ -1599,10 +1599,10 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291777252
+	part = Mk1FuselageStructural_4294751346
 	partName = Strut
-	pos = -3.507702,5.135383,-8.988336
-	rot = -0.7071071,6.428381E-07,1.880113E-07,-0.7071068
+	pos = -3.507702,5.135383,-8.988342
+	rot = -0.707107,6.726403E-07,2.178138E-07,-0.7071066
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -1610,11 +1610,11 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = Mk1FuselageStructural_4291777224
-	link = SmallGearBay_4291776868
-	sym = Mk1FuselageStructural_4291775078
-	attN = top,Mk1FuselageStructural_4291777280
-	attN = bottom,Mk1FuselageStructural_4291777224
+	link = Mk1FuselageStructural_4294751318
+	link = SmallGearBay_4294750962
+	sym = Mk1FuselageStructural_4294749172
+	attN = top,Mk1FuselageStructural_4294751374
+	attN = bottom,Mk1FuselageStructural_4294751318
 	EVENTS
 	{
 	}
@@ -1624,10 +1624,10 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291777224
+	part = Mk1FuselageStructural_4294751318
 	partName = Strut
 	pos = -3.507702,5.135376,-10.87574
-	rot = -0.7071075,3.746177E-07,-8.021001E-08,-0.7071062
+	rot = -0.7071075,3.746177E-07,-8.021008E-08,-0.7071062
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -1635,13 +1635,13 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = turboFanEngine_4291777196
-	link = strutConnector_4291777112
-	link = strutConnector_4291777056
-	link = trussPiece3x_4291777000
-	sym = Mk1FuselageStructural_4291775050
-	attN = top,Mk1FuselageStructural_4291777252
-	attN = bottom,turboFanEngine_4291777196
+	link = turboFanEngine_4294751290
+	link = strutConnector_4294751206
+	link = strutConnector_4294751150
+	link = trussPiece3x_4294751094
+	sym = Mk1FuselageStructural_4294749144
+	attN = top,Mk1FuselageStructural_4294751346
+	attN = bottom,turboFanEngine_4294751290
 	EVENTS
 	{
 	}
@@ -1651,10 +1651,10 @@ PART
 }
 PART
 {
-	part = turboFanEngine_4291777196
+	part = turboFanEngine_4294751290
 	partName = Part
 	pos = -3.507702,5.135386,-13.24206
-	rot = -0.7071071,5.236288E-07,6.880211E-08,-0.7071067
+	rot = -0.707107,4.938264E-07,3.899981E-08,-0.7071066
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -1662,8 +1662,8 @@ PART
 	sidx = 2
 	sqor = 0
 	attm = 0
-	sym = turboFanEngine_4291775022
-	attN = top,Mk1FuselageStructural_4291777224
+	sym = turboFanEngine_4294749116
+	attN = top,Mk1FuselageStructural_4294751318
 	EVENTS
 	{
 	}
@@ -1783,10 +1783,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291777112
+	part = strutConnector_4294751206
 	partName = StrutConnector
 	pos = -2.987242,4.834897,-11.66835
-	rot = 0.1830139,0.6830125,0.6830124,0.1830141
+	rot = 0.183014,0.6830125,0.6830124,0.1830142
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -1794,9 +1794,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: mk3spacePlaneAdapter_3; pos: -1.677198,1.711469,0.9238538; dir: -0.6530644,0.6664099,0.3597288
-	sym = strutConnector_4291774938
-	srfN = srfAttach,Mk1FuselageStructural_4291777224
+	cData = tgt: mk3spacePlaneAdapter_3; pos: -1.677199,1.711471,0.9238548; dir: -0.6530644,0.6664099,0.3597288
+	sym = strutConnector_4294749032
+	srfN = srfAttach,Mk1FuselageStructural_4294751318
 	EVENTS
 	{
 	}
@@ -1806,10 +1806,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291777056
+	part = strutConnector_4294751150
 	partName = StrutConnector
 	pos = -2.986803,4.83464,-10.17944
-	rot = 0.1830139,0.6830125,0.6830124,0.1830141
+	rot = 0.183014,0.6830125,0.6830124,0.1830142
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -1817,9 +1817,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: mk2Fuselage_4; pos: -1.512566,-1.253854,0.9309208; dir: -0.6957279,-0.5767279,0.4281911
-	sym = strutConnector_4291774882
-	srfN = srfAttach,Mk1FuselageStructural_4291777224
+	cData = tgt: mk2Fuselage_4; pos: -1.512565,-1.253854,0.9309198; dir: -0.6957279,-0.5767279,0.4281911
+	sym = strutConnector_4294748976
+	srfN = srfAttach,Mk1FuselageStructural_4294751318
 	EVENTS
 	{
 	}
@@ -1829,10 +1829,10 @@ PART
 }
 PART
 {
-	part = trussPiece3x_4291777000
+	part = trussPiece3x_4294751094
 	partName = Part
 	pos = -3.507703,5.739089,-10.05784
-	rot = -1.273387E-08,-0.7071066,-0.7071072,-4.325515E-08
+	rot = 1.706839E-08,-0.7071066,-0.7071072,-1.345275E-08
 	attRot = -0.7071068,0,0,0.7071068
 	mir = 1,1,1
 	istg = 0
@@ -1840,9 +1840,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = Mk1FuselageStructural_4291776980
-	sym = trussPiece3x_4291774826
-	srfN = srfAttach,Mk1FuselageStructural_4291777224
+	link = Mk1FuselageStructural_4294751074
+	sym = trussPiece3x_4294748920
+	srfN = srfAttach,Mk1FuselageStructural_4294751318
 	EVENTS
 	{
 	}
@@ -1852,10 +1852,10 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291776980
+	part = Mk1FuselageStructural_4294751074
 	partName = Strut
-	pos = -3.507705,6.701335,-10.65025
-	rot = 1.319433E-07,0.7071066,0.7071072,1.624643E-07
+	pos = -3.507705,6.701336,-10.65025
+	rot = 1.319433E-07,0.7071065,0.7071071,1.624643E-07
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -1863,10 +1863,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = turboFanEngine_4291776952
-	sym = Mk1FuselageStructural_4291774806
-	srfN = srfAttach,trussPiece3x_4291777000
-	attN = bottom,turboFanEngine_4291776952
+	link = turboFanEngine_4294751046
+	sym = Mk1FuselageStructural_4294748900
+	srfN = srfAttach,trussPiece3x_4294751094
+	attN = bottom,turboFanEngine_4294751046
 	EVENTS
 	{
 	}
@@ -1876,10 +1876,10 @@ PART
 }
 PART
 {
-	part = turboFanEngine_4291776952
+	part = turboFanEngine_4294751046
 	partName = Part
-	pos = -3.507705,6.701339,-13.01649
-	rot = 0.7071072,4.61517E-08,7.667323E-08,0.7071066
+	pos = -3.507705,6.701341,-13.01649
+	rot = 0.7071071,7.5954E-08,1.064756E-07,0.7071065
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -1887,8 +1887,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = turboFanEngine_4291774778
-	attN = top,Mk1FuselageStructural_4291776980
+	sym = turboFanEngine_4294748872
+	attN = top,Mk1FuselageStructural_4294751074
 	EVENTS
 	{
 	}
@@ -2008,9 +2008,9 @@ PART
 }
 PART
 {
-	part = SmallGearBay_4291776868
+	part = SmallGearBay_4294750962
 	partName = Part
-	pos = -3.433302,4.351117,-9.122251
+	pos = -3.433302,4.351117,-9.122256
 	rot = -8.007902E-07,1.78814E-07,9.038577E-07,-1
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -2019,8 +2019,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = SmallGearBay_4291774694
-	srfN = srfAttach,Mk1FuselageStructural_4291777252
+	sym = SmallGearBay_4294748788
+	srfN = srfAttach,Mk1FuselageStructural_4294751346
 	EVENTS
 	{
 	}
@@ -2121,10 +2121,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291776700
+	part = strutConnector_4294750794
 	partName = StrutConnector
-	pos = -2.987163,4.834851,-7.727555
-	rot = 0.1830141,0.6830126,0.6830123,0.1830144
+	pos = -2.987163,4.834851,-7.727561
+	rot = 0.1830141,0.6830125,0.6830122,0.1830144
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2132,9 +2132,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: mk3Fuselage_2; pos: -1.501213,1.293265,0.9373662; dir: -0.6848612,0.5899969,0.4276316
-	sym = strutConnector_4291774526
-	srfN = srfAttach,Mk1FuselageStructural_4291777280
+	cData = tgt: mk3Fuselage_2; pos: -1.501211,1.293267,0.9373662; dir: -0.6848612,0.5899969,0.4276316
+	sym = strutConnector_4294748620
+	srfN = srfAttach,Mk1FuselageStructural_4294751374
 	EVENTS
 	{
 	}
@@ -2144,9 +2144,9 @@ PART
 }
 PART
 {
-	part = strutConnector_4291776644
+	part = strutConnector_4294750738
 	partName = StrutConnector
-	pos = -2.917392,4.977208,-6.557145
+	pos = -2.917392,4.977208,-6.557152
 	rot = 0.09229632,0.7010576,0.7010573,0.09229673
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -2155,9 +2155,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: mk3Fuselage_2; pos: -1.665262,-1.130254,0.3495919; dir: -0.815211,-0.5533015,0.171139
-	sym = strutConnector_4291774470
-	srfN = srfAttach,Mk1FuselageStructural_4291777280
+	cData = tgt: mk3Fuselage_2; pos: -1.66526,-1.130254,0.3495913; dir: -0.815211,-0.5533015,0.171139
+	sym = strutConnector_4294748564
+	srfN = srfAttach,Mk1FuselageStructural_4294751374
 	EVENTS
 	{
 	}
@@ -2167,10 +2167,10 @@ PART
 }
 PART
 {
-	part = deltaWing_4291776588
+	part = deltaWing_4294750682
 	partName = Winglet
-	pos = -4.116446,5.135384,-3.988102
-	rot = 0.7071069,-8.100235E-08,6.210598E-07,0.7071069
+	pos = -4.116446,5.135384,-3.988105
+	rot = 0.7071068,-2.848398E-08,6.877508E-07,0.7071068
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2178,9 +2178,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = wingConnector_4291776560
-	sym = deltaWing_4291774414
-	srfN = srfAttach,Mk1FuselageStructural_4291777336
+	link = wingConnector_4294750654
+	sym = deltaWing_4294748508
+	srfN = srfAttach,Mk1FuselageStructural_4294751430
 	EVENTS
 	{
 	}
@@ -2190,10 +2190,10 @@ PART
 }
 PART
 {
-	part = wingConnector_4291776560
+	part = wingConnector_4294750654
 	partName = Winglet
-	pos = -5.780171,5.135385,-4.899045
-	rot = -0.5052959,0.4946476,-0.4946462,-0.5052973
+	pos = -5.780172,5.135386,-4.899045
+	rot = -0.5052958,0.4946477,-0.4946463,-0.5052971
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2201,10 +2201,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = wingConnector_4291776532
-	link = strutConnector_4291775528
-	sym = wingConnector_4291774386
-	srfN = srfAttach,deltaWing_4291776588
+	link = wingConnector_4294750626
+	link = strutConnector_4294749622
+	sym = wingConnector_4294748480
+	srfN = srfAttach,deltaWing_4294750682
 	EVENTS
 	{
 	}
@@ -2214,10 +2214,10 @@ PART
 }
 PART
 {
-	part = wingConnector_4291776532
+	part = wingConnector_4294750626
 	partName = Winglet
-	pos = -5.780191,5.210802,-6.587785
-	rot = 0.5052967,-0.4946464,0.4946464,0.5052975
+	pos = -5.780192,5.210802,-6.58779
+	rot = 0.5052967,-0.4946463,0.4946463,0.5052975
 	attRot = 0,0.7071068,-4.214685E-08,0.7071068
 	mir = 1,1,1
 	istg = 0
@@ -2225,10 +2225,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = deltaWing_4291776504
-	link = wingConnector_4291776244
-	sym = wingConnector_4291774358
-	srfN = srfAttach,wingConnector_4291776560
+	link = deltaWing_4294750598
+	link = wingConnector_4294750338
+	sym = wingConnector_4294748452
+	srfN = srfAttach,wingConnector_4294750654
 	EVENTS
 	{
 	}
@@ -2238,10 +2238,10 @@ PART
 }
 PART
 {
-	part = deltaWing_4291776504
+	part = deltaWing_4294750598
 	partName = Winglet
-	pos = -7.518803,5.2108,-6.742997
-	rot = 0.7070667,0.007530281,-0.007530993,0.707067
+	pos = -7.518806,5.210801,-6.743002
+	rot = 0.7070667,0.007530185,-0.007531016,0.7070669
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2249,11 +2249,11 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = strutConnector_4291776476
-	link = strutConnector_4291776420
-	link = nacelleBody_4291776364
-	sym = deltaWing_4291774330
-	srfN = srfAttach,wingConnector_4291776532
+	link = strutConnector_4294750570
+	link = strutConnector_4294750514
+	link = nacelleBody_4294750458
+	sym = deltaWing_4294748424
+	srfN = srfAttach,wingConnector_4294750626
 	EVENTS
 	{
 	}
@@ -2263,10 +2263,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291776476
+	part = strutConnector_4294750570
 	partName = StrutConnector
-	pos = -10.89865,5.210801,-7.114907
-	rot = 0.707067,0.007530818,-0.007530934,0.7070666
+	pos = -10.89865,5.210803,-7.114912
+	rot = 0.707067,0.00753081,-0.007530986,0.7070665
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2274,9 +2274,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: nacelleBody_62; pos: 0.3225868,-0.1279933,0.02114135; dir: 0.9277933,-0.3681059,0.06080773
-	sym = strutConnector_4291774302
-	srfN = srfAttach,deltaWing_4291776504
+	cData = tgt: nacelleBody_62; pos: 0.3225869,-0.1279914,0.02114089; dir: 0.9277933,-0.3681059,0.06080773
+	sym = strutConnector_4294748396
+	srfN = srfAttach,deltaWing_4294750598
 	EVENTS
 	{
 	}
@@ -2286,10 +2286,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291776420
+	part = strutConnector_4294750514
 	partName = StrutConnector
-	pos = -8.462747,5.210801,-7.266998
-	rot = -0.6419933,0.2963865,-0.2963864,-0.6419929
+	pos = -8.462751,5.210803,-7.267002
+	rot = -0.6419933,0.2963865,-0.2963865,-0.6419929
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2297,9 +2297,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: nacelleBody_76; pos: 0.2216686,-1.613838,0.1705028; dir: 0.1353408,-0.9853153,0.1040991
-	sym = strutConnector_4291774246
-	srfN = srfAttach,deltaWing_4291776504
+	cData = tgt: nacelleBody_76; pos: 0.2216695,-1.613841,0.1705027; dir: 0.1353408,-0.9853153,0.1040991
+	sym = strutConnector_4294748340
+	srfN = srfAttach,deltaWing_4294750598
 	EVENTS
 	{
 	}
@@ -2309,10 +2309,10 @@ PART
 }
 PART
 {
-	part = nacelleBody_4291776364
+	part = nacelleBody_4294750458
 	partName = Strut
-	pos = -9.956184,5.210796,-7.087276
-	rot = -0.505297,-0.5052968,-0.4946467,-0.4946463
+	pos = -9.956186,5.210796,-7.087279
+	rot = -0.5052971,-0.5052969,-0.4946468,-0.4946463
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2320,10 +2320,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = turboFanEngine_4291776328
-	sym = nacelleBody_4291774190
-	srfN = srfAttach,deltaWing_4291776504
-	attN = bottom,turboFanEngine_4291776328
+	link = turboFanEngine_4294750422
+	sym = nacelleBody_4294748284
+	srfN = srfAttach,deltaWing_4294750598
+	attN = bottom,turboFanEngine_4294750422
 	EVENTS
 	{
 	}
@@ -2371,10 +2371,10 @@ PART
 }
 PART
 {
-	part = turboFanEngine_4291776328
+	part = turboFanEngine_4294750422
 	partName = Part
-	pos = -10.00656,5.210793,-9.451744
-	rot = 0.526611,0.4830003,0.4718912,0.5164405
+	pos = -10.00656,5.210793,-9.451752
+	rot = 0.526611,0.4830004,0.4718913,0.5164405
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2382,8 +2382,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = turboFanEngine_4291774154
-	attN = top,nacelleBody_4291776364
+	sym = turboFanEngine_4294748248
+	attN = top,nacelleBody_4294750458
 	EVENTS
 	{
 	}
@@ -2503,10 +2503,10 @@ PART
 }
 PART
 {
-	part = wingConnector_4291776244
+	part = wingConnector_4294750338
 	partName = Winglet
-	pos = -5.757566,5.228505,-8.276782
-	rot = 0.5052968,-0.4946466,0.4946464,0.5052972
+	pos = -5.757567,5.228506,-8.276788
+	rot = 0.5052968,-0.4946467,0.4946463,0.5052972
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2514,12 +2514,12 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = deltaWing_4291776216
-	link = strutConnector_4291775750
-	link = StandardCtrlSrf_4291775694
-	link = nacelleBody_4291775648
-	sym = wingConnector_4291774070
-	srfN = srfAttach,wingConnector_4291776532
+	link = deltaWing_4294750310
+	link = strutConnector_4294749844
+	link = StandardCtrlSrf_4294749788
+	link = nacelleBody_4294749742
+	sym = wingConnector_4294748164
+	srfN = srfAttach,wingConnector_4294750626
 	EVENTS
 	{
 	}
@@ -2529,10 +2529,10 @@ PART
 }
 PART
 {
-	part = deltaWing_4291776216
+	part = deltaWing_4294750310
 	partName = Winglet
-	pos = -7.479622,5.228507,-8.67898
-	rot = -0.7070674,0.007529981,0.007530104,0.7070662
+	pos = -7.479623,5.228508,-8.678987
+	rot = -0.7070673,0.007529973,0.007530036,0.7070662
 	attRot = 0,0.9999999,-5.960464E-08,-1.776357E-15
 	mir = 1,1,1
 	istg = 0
@@ -2540,16 +2540,16 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = StandardCtrlSrf_4291776188
-	link = strutConnector_4291776142
-	link = strutConnector_4291776086
-	link = strutConnector_4291776030
-	link = strutConnector_4291775974
-	link = strutConnector_4291775918
-	link = strutConnector_4291775862
-	link = strutConnector_4291775806
-	sym = deltaWing_4291774042
-	srfN = srfAttach,wingConnector_4291776244
+	link = StandardCtrlSrf_4294750282
+	link = strutConnector_4294750236
+	link = strutConnector_4294750180
+	link = strutConnector_4294750124
+	link = strutConnector_4294750068
+	link = strutConnector_4294750012
+	link = strutConnector_4294749956
+	link = strutConnector_4294749900
+	sym = deltaWing_4294748136
+	srfN = srfAttach,wingConnector_4294750338
 	EVENTS
 	{
 	}
@@ -2559,10 +2559,10 @@ PART
 }
 PART
 {
-	part = StandardCtrlSrf_4291776188
+	part = StandardCtrlSrf_4294750282
 	partName = ControlSurface
-	pos = -9.212226,5.2285,-9.946236
-	rot = -0.2443811,-0.6635346,-0.6635346,0.2443811
+	pos = -9.212229,5.228501,-9.946241
+	rot = -0.244381,-0.6635346,-0.6635345,0.244381
 	attRot = 0,-0.7071068,4.214685E-08,0.7071068
 	mir = 1,1,1
 	istg = 0
@@ -2570,8 +2570,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = StandardCtrlSrf_4291774014
-	srfN = srfAttach,deltaWing_4291776216
+	sym = StandardCtrlSrf_4294748108
+	srfN = srfAttach,deltaWing_4294750310
 	EVENTS
 	{
 	}
@@ -2581,10 +2581,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291776142
+	part = strutConnector_4294750236
 	partName = StrutConnector
-	pos = -8.794698,5.228505,-9.736423
-	rot = 0.6421989,-0.2962915,0.2964816,0.6417876
+	pos = -8.794703,5.228507,-9.736428
+	rot = 0.6421988,-0.2962914,0.2964815,0.6417875
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2592,9 +2592,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: deltaWing_59; pos: 1.37655,1.435497,0.02804257; dir: 0.6920658,0.7216967,0.01409915
-	sym = strutConnector_4291773968
-	srfN = srfAttach,deltaWing_4291776216
+	cData = tgt: deltaWing_59; pos: 1.376551,1.435492,0.02804247; dir: 0.6920658,0.7216967,0.01409915
+	sym = strutConnector_4294748062
+	srfN = srfAttach,deltaWing_4294750310
 	EVENTS
 	{
 	}
@@ -2604,10 +2604,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291776086
+	part = strutConnector_4294750180
 	partName = StrutConnector
-	pos = -8.282213,5.228504,-10.43473
-	rot = 0.6421989,-0.2962915,0.2964816,0.6417876
+	pos = -8.282217,5.228505,-10.43473
+	rot = 0.6421988,-0.2962914,0.2964815,0.6417875
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2615,9 +2615,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: deltaWing_59; pos: 1.993355,1.743777,0.03161564; dir: 0.7526011,0.6583685,0.01193723
-	sym = strutConnector_4291773912
-	srfN = srfAttach,deltaWing_4291776216
+	cData = tgt: deltaWing_59; pos: 1.993351,1.743769,0.03161622; dir: 0.7526011,0.6583685,0.01193723
+	sym = strutConnector_4294748006
+	srfN = srfAttach,deltaWing_4294750310
 	EVENTS
 	{
 	}
@@ -2627,10 +2627,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291776030
+	part = strutConnector_4294750124
 	partName = StrutConnector
-	pos = -10.73771,5.228505,-8.16723
-	rot = -0.7070664,-0.007530252,0.007530428,-0.7070673
+	pos = -10.73771,5.228507,-8.167235
+	rot = -0.7070663,-0.007530334,0.00753039,-0.7070672
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2638,9 +2638,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: turboFanEngine_63; pos: 0.1425111,0.07170687,0.01003955; dir: 0.8915318,0.4485821,0.06280947
-	sym = strutConnector_4291773856
-	srfN = srfAttach,deltaWing_4291776216
+	cData = tgt: turboFanEngine_63; pos: 0.1425192,0.07170627,0.01003892; dir: 0.8915318,0.4485821,0.06280947
+	sym = strutConnector_4294747950
+	srfN = srfAttach,deltaWing_4294750310
 	EVENTS
 	{
 	}
@@ -2650,10 +2650,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291775974
+	part = strutConnector_4294750068
 	partName = StrutConnector
-	pos = -8.067675,5.228506,-7.968022
-	rot = -0.635534,-0.309994,0.3099943,-0.6355346
+	pos = -8.067677,5.228507,-7.968025
+	rot = -0.6355338,-0.3099941,0.3099944,-0.6355345
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2661,8 +2661,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291773800
-	srfN = srfAttach,deltaWing_4291776216
+	sym = strutConnector_4294747894
+	srfN = srfAttach,deltaWing_4294750310
 	EVENTS
 	{
 	}
@@ -2672,10 +2672,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291775918
+	part = strutConnector_4294750012
 	partName = StrutConnector
-	pos = -7.963803,5.228505,-7.93148
-	rot = -0.6355346,-0.3099934,0.3099945,-0.6355343
+	pos = -7.963806,5.228506,-7.931483
+	rot = -0.6355343,-0.3099934,0.3099945,-0.6355342
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2683,8 +2683,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291773744
-	srfN = srfAttach,deltaWing_4291776216
+	sym = strutConnector_4294747838
+	srfN = srfAttach,deltaWing_4294750310
 	EVENTS
 	{
 	}
@@ -2694,10 +2694,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291775862
+	part = strutConnector_4294749956
 	partName = StrutConnector
-	pos = -7.952974,5.228507,-7.984343
-	rot = -0.6355342,-0.3099938,0.3099933,-0.6355351
+	pos = -7.952977,5.228508,-7.984346
+	rot = -0.635534,-0.3099938,0.3099932,-0.6355349
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2705,8 +2705,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291773688
-	srfN = srfAttach,deltaWing_4291776216
+	sym = strutConnector_4294747782
+	srfN = srfAttach,deltaWing_4294750310
 	EVENTS
 	{
 	}
@@ -2716,10 +2716,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291775806
+	part = strutConnector_4294749900
 	partName = StrutConnector
-	pos = -7.851023,5.128987,-7.962835
-	rot = -0.7010573,-0.09229526,-0.09229642,-0.7010579
+	pos = -7.851027,5.128987,-7.962839
+	rot = -0.7010572,-0.09229522,-0.09229646,-0.7010578
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2727,9 +2727,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_43; pos: 3.71778,2.931179,1.487999; dir: 0.7491533,0.5906486,0.2998393
-	sym = strutConnector_4291773632
-	srfN = srfAttach,deltaWing_4291776216
+	cData = tgt: Mk1FuselageStructural_43; pos: 3.717785,2.931183,1.487997; dir: 0.7491533,0.5906486,0.2998393
+	sym = strutConnector_4294747726
+	srfN = srfAttach,deltaWing_4294750310
 	EVENTS
 	{
 	}
@@ -2739,10 +2739,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291775750
+	part = strutConnector_4294749844
 	partName = StrutConnector
-	pos = -6.404565,5.055134,-9.040798
-	rot = -0.7010574,-0.09229437,-0.09229839,-0.7010576
+	pos = -6.404566,5.055134,-9.040803
+	rot = -0.7010573,-0.09229438,-0.09229854,-0.7010577
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2750,9 +2750,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_43; pos: 2.27051,3.672533,0.9456688; dir: 0.5136828,0.8308767,0.2139483
-	sym = strutConnector_4291773576
-	srfN = srfAttach,wingConnector_4291776244
+	cData = tgt: Mk1FuselageStructural_43; pos: 2.270514,3.672536,0.9456674; dir: 0.5136828,0.8308767,0.2139483
+	sym = strutConnector_4294747670
+	srfN = srfAttach,wingConnector_4294750338
 	EVENTS
 	{
 	}
@@ -2762,10 +2762,10 @@ PART
 }
 PART
 {
-	part = StandardCtrlSrf_4291775694
+	part = StandardCtrlSrf_4294749788
 	partName = ControlSurface
-	pos = -5.589007,5.318212,-9.919965
-	rot = -0.7070673,-0.007531354,0.007531053,-0.7070662
+	pos = -5.589007,5.318213,-9.91997
+	rot = -0.7070674,-0.007531377,0.007531017,-0.7070663
 	attRot = -0.5000001,-0.5000001,0.5000001,-0.5000001
 	mir = 1,1,1
 	istg = 0
@@ -2773,8 +2773,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = StandardCtrlSrf_4291773520
-	srfN = srfAttach,wingConnector_4291776244
+	sym = StandardCtrlSrf_4294747614
+	srfN = srfAttach,wingConnector_4294750338
 	EVENTS
 	{
 	}
@@ -2784,10 +2784,10 @@ PART
 }
 PART
 {
-	part = nacelleBody_4291775648
+	part = nacelleBody_4294749742
 	partName = Strut
-	pos = -6.952931,5.5488,-9.082548
-	rot = -0.5609859,-0.4304591,-0.4304591,-0.560986
+	pos = -6.952931,5.5488,-9.082553
+	rot = -0.5609859,-0.430459,-0.4304592,-0.560986
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2795,10 +2795,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = turboFanEngine_4291775612
-	sym = nacelleBody_4291773474
-	srfN = srfAttach,wingConnector_4291776244
-	attN = bottom,turboFanEngine_4291775612
+	link = turboFanEngine_4294749706
+	sym = nacelleBody_4294747568
+	srfN = srfAttach,wingConnector_4294750338
+	attN = bottom,turboFanEngine_4294749706
 	EVENTS
 	{
 	}
@@ -2846,10 +2846,10 @@ PART
 }
 PART
 {
-	part = turboFanEngine_4291775612
+	part = turboFanEngine_4294749706
 	partName = Part
-	pos = -6.952931,5.548801,-11.44755
-	rot = 0.579416,0.4053118,0.4053119,0.5794154
+	pos = -6.952933,5.548803,-11.44755
+	rot = 0.579416,0.4053119,0.4053119,0.5794153
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2857,8 +2857,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = turboFanEngine_4291773438
-	attN = top,nacelleBody_4291775648
+	sym = turboFanEngine_4294747532
+	attN = top,nacelleBody_4294749742
 	EVENTS
 	{
 	}
@@ -2978,10 +2978,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291775528
+	part = strutConnector_4294749622
 	partName = StrutConnector
-	pos = -6.384332,4.973492,-5.551775
-	rot = 0.7010573,0.0922947,0.09229669,0.7010579
+	pos = -6.384333,4.973493,-5.551775
+	rot = 0.7010573,0.09229475,0.09229665,0.7010579
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -2989,9 +2989,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_46; pos: 2.228807,-5.320037,0.7001151; dir: 0.3835912,-0.9156085,0.1204939
-	sym = strutConnector_4291773354
-	srfN = srfAttach,wingConnector_4291776560
+	cData = tgt: Mk1FuselageStructural_46; pos: 2.228814,-5.320047,0.7001134; dir: 0.3835912,-0.9156085,0.1204939
+	sym = strutConnector_4294747448
+	srfN = srfAttach,wingConnector_4294750654
 	EVENTS
 	{
 	}
@@ -3001,10 +3001,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291775472
+	part = strutConnector_4294749566
 	partName = StrutConnector
-	pos = -2.923603,4.978869,-3.727089
-	rot = 0.09229539,0.7010576,0.7010577,0.09229603
+	pos = -2.923603,4.978869,-3.727092
+	rot = 0.09229536,0.7010574,0.7010577,0.092296
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -3012,9 +3012,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: mk3Fuselage_1; pos: -1.795264,0.7599525,0.3072202; dir: -0.9096636,0.3850704,0.1556695
-	sym = strutConnector_4291773298
-	srfN = srfAttach,Mk1FuselageStructural_4291777336
+	cData = tgt: mk3Fuselage_1; pos: -1.795262,0.7599524,0.3072201; dir: -0.9096636,0.3850704,0.1556695
+	sym = strutConnector_4294747392
+	srfN = srfAttach,Mk1FuselageStructural_4294751430
 	EVENTS
 	{
 	}
@@ -3024,7 +3024,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291775416
+	part = strutConnector_4294749510
 	partName = StrutConnector
 	pos = -2.980999,4.831294,-2.728427
 	rot = 0.1830134,0.6830125,0.6830128,0.1830132
@@ -3035,9 +3035,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: mk3Fuselage_1; pos: -1.452914,-1.368414,1.008697; dir: -0.6496992,-0.6119128,0.4510584
-	sym = strutConnector_4291773242
-	srfN = srfAttach,Mk1FuselageStructural_4291777336
+	cData = tgt: mk3Fuselage_1; pos: -1.452912,-1.368414,1.008696; dir: -0.6496992,-0.6119128,0.4510584
+	sym = strutConnector_4294747336
+	srfN = srfAttach,Mk1FuselageStructural_4294751430
 	EVENTS
 	{
 	}
@@ -3047,10 +3047,10 @@ PART
 }
 PART
 {
-	part = adapterLargeSmallQuad_4291775360
+	part = adapterLargeSmallQuad_4294749454
 	partName = Part
-	pos = -3.507712,5.135376,-0.5007458
-	rot = 1.445283E-06,0.7071063,-0.7071075,-5.180546E-07
+	pos = -3.507712,5.135376,-0.5007468
+	rot = 1.53469E-06,0.7071063,-0.7071075,-6.074617E-07
 	attRot = 0,-0.9999999,5.960464E-08,-1.776357E-15
 	mir = 1,1,1
 	istg = 0
@@ -3058,16 +3058,16 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = ramAirIntake_4291775334
-	link = ramAirIntake_4291775298
-	link = ramAirIntake_4291775262
-	link = ramAirIntake_4291775226
-	sym = adapterLargeSmallQuad_4291773186
-	attN = top,Mk1FuselageStructural_4291777364
-	attN = bottom01,ramAirIntake_4291775262
-	attN = bottom02,ramAirIntake_4291775334
-	attN = bottom03,ramAirIntake_4291775226
-	attN = bottom04,ramAirIntake_4291775298
+	link = ramAirIntake_4294749428
+	link = ramAirIntake_4294749392
+	link = ramAirIntake_4294749356
+	link = ramAirIntake_4294749320
+	sym = adapterLargeSmallQuad_4294747280
+	attN = top,Mk1FuselageStructural_4294751458
+	attN = bottom01,ramAirIntake_4294749356
+	attN = bottom02,ramAirIntake_4294749428
+	attN = bottom03,ramAirIntake_4294749320
+	attN = bottom04,ramAirIntake_4294749392
 	EVENTS
 	{
 	}
@@ -3077,9 +3077,9 @@ PART
 }
 PART
 {
-	part = ramAirIntake_4291775334
+	part = ramAirIntake_4294749428
 	partName = Part
-	pos = -4.13273,5.760417,0.2492672
+	pos = -4.132732,5.760419,0.2492667
 	rot = -0.7071067,5.454803E-07,1.661599E-07,-0.7071071
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -3088,8 +3088,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = ramAirIntake_4291773160
-	attN = bottom01,adapterLargeSmallQuad_4291775360
+	sym = ramAirIntake_4294747254
+	attN = bottom01,adapterLargeSmallQuad_4294749454
 	EVENTS
 	{
 	}
@@ -3137,9 +3137,9 @@ PART
 }
 PART
 {
-	part = ramAirIntake_4291775298
+	part = ramAirIntake_4294749392
 	partName = Part
-	pos = -2.882689,5.760388,0.2492675
+	pos = -2.882689,5.760388,0.249267
 	rot = -0.7071067,5.454803E-07,1.661599E-07,-0.7071071
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -3148,8 +3148,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = ramAirIntake_4291773124
-	attN = bottom01,adapterLargeSmallQuad_4291775360
+	sym = ramAirIntake_4294747218
+	attN = bottom01,adapterLargeSmallQuad_4294749454
 	EVENTS
 	{
 	}
@@ -3197,9 +3197,9 @@ PART
 }
 PART
 {
-	part = ramAirIntake_4291775262
+	part = ramAirIntake_4294749356
 	partName = Part
-	pos = -4.132713,4.510375,0.2492695
+	pos = -4.132713,4.510375,0.249269
 	rot = -0.7071067,5.454803E-07,1.661599E-07,-0.7071071
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -3208,8 +3208,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = ramAirIntake_4291773088
-	attN = bottom01,adapterLargeSmallQuad_4291775360
+	sym = ramAirIntake_4294747182
+	attN = bottom01,adapterLargeSmallQuad_4294749454
 	EVENTS
 	{
 	}
@@ -3257,9 +3257,9 @@ PART
 }
 PART
 {
-	part = ramAirIntake_4291775226
+	part = ramAirIntake_4294749320
 	partName = Part
-	pos = -2.882677,4.510354,0.2492695
+	pos = -2.882677,4.510354,0.249269
 	rot = -0.7071067,5.454803E-07,1.661599E-07,-0.7071071
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -3268,8 +3268,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = ramAirIntake_4291773052
-	attN = bottom01,adapterLargeSmallQuad_4291775360
+	sym = ramAirIntake_4294747146
+	attN = bottom01,adapterLargeSmallQuad_4294749454
 	EVENTS
 	{
 	}
@@ -3317,7 +3317,7 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291775190
+	part = Mk1FuselageStructural_4294749284
 	partName = Strut
 	pos = 3.507704,5.135376,-1.438262
 	rot = 0.5000001,0.5000001,0.5000001,0.5000001
@@ -3328,12 +3328,12 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = Mk1FuselageStructural_4291775162
-	link = adapterLargeSmallQuad_4291773186
-	sym = Mk1FuselageStructural_4291777364
-	srfN = srfAttach,wingConnector_4291779542
-	attN = top,adapterLargeSmallQuad_4291773186
-	attN = bottom,Mk1FuselageStructural_4291775162
+	link = Mk1FuselageStructural_4294749256
+	link = adapterLargeSmallQuad_4294747280
+	sym = Mk1FuselageStructural_4294751458
+	srfN = srfAttach,wingConnector_4294753636
+	attN = top,adapterLargeSmallQuad_4294747280
+	attN = bottom,Mk1FuselageStructural_4294749256
 	EVENTS
 	{
 	}
@@ -3343,9 +3343,9 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291775162
+	part = Mk1FuselageStructural_4294749256
 	partName = Strut
-	pos = 3.507713,5.135382,-3.325792
+	pos = 3.507713,5.135382,-3.325795
 	rot = 0.6532817,-0.2705967,-0.2705976,0.6532823
 	attRot = 3.284302E-17,2.280972E-08,0.3826835,0.9238796
 	mir = 1,1,1
@@ -3354,13 +3354,13 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = Mk1FuselageStructural_4291775134
-	link = deltaWing_4291774414
-	link = strutConnector_4291773298
-	link = strutConnector_4291773242
-	sym = Mk1FuselageStructural_4291777336
-	attN = top,Mk1FuselageStructural_4291775190
-	attN = bottom,Mk1FuselageStructural_4291775134
+	link = Mk1FuselageStructural_4294749228
+	link = deltaWing_4294748508
+	link = strutConnector_4294747392
+	link = strutConnector_4294747336
+	sym = Mk1FuselageStructural_4294751430
+	attN = top,Mk1FuselageStructural_4294749284
+	attN = bottom,Mk1FuselageStructural_4294749228
 	EVENTS
 	{
 	}
@@ -3370,10 +3370,10 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291775134
+	part = Mk1FuselageStructural_4294749228
 	partName = Strut
-	pos = 3.507712,5.135384,-5.213271
-	rot = 0.7071071,1.487354E-07,-5.67371E-07,0.7071067
+	pos = 3.507712,5.135384,-5.213274
+	rot = 0.7071071,1.14521E-07,-5.331567E-07,0.7071067
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -3381,10 +3381,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = Mk1FuselageStructural_4291775106
-	sym = Mk1FuselageStructural_4291777308
-	attN = top,Mk1FuselageStructural_4291775162
-	attN = bottom,Mk1FuselageStructural_4291775106
+	link = Mk1FuselageStructural_4294749200
+	sym = Mk1FuselageStructural_4294751402
+	attN = top,Mk1FuselageStructural_4294749256
+	attN = bottom,Mk1FuselageStructural_4294749200
 	EVENTS
 	{
 	}
@@ -3394,10 +3394,10 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291775106
+	part = Mk1FuselageStructural_4294749200
 	partName = Strut
-	pos = 3.507702,5.135376,-7.10083
-	rot = 0.7071068,2.314359E-07,-2.32839E-07,0.7071068
+	pos = 3.507702,5.135376,-7.100839
+	rot = 0.7071068,2.31436E-07,-2.328391E-07,0.7071068
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -3405,12 +3405,12 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = Mk1FuselageStructural_4291775078
-	link = strutConnector_4291774526
-	link = strutConnector_4291774470
-	sym = Mk1FuselageStructural_4291777280
-	attN = top,Mk1FuselageStructural_4291775134
-	attN = bottom,Mk1FuselageStructural_4291775078
+	link = Mk1FuselageStructural_4294749172
+	link = strutConnector_4294748620
+	link = strutConnector_4294748564
+	sym = Mk1FuselageStructural_4294751374
+	attN = top,Mk1FuselageStructural_4294749228
+	attN = bottom,Mk1FuselageStructural_4294749172
 	EVENTS
 	{
 	}
@@ -3420,10 +3420,10 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291775078
+	part = Mk1FuselageStructural_4294749172
 	partName = Strut
-	pos = 3.507703,5.135383,-8.988335
-	rot = 0.7071071,5.890639E-07,1.247889E-07,0.7071065
+	pos = 3.507703,5.135383,-8.98834
+	rot = 0.7071071,5.89064E-07,1.247887E-07,0.7071065
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -3431,11 +3431,11 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = Mk1FuselageStructural_4291775050
-	link = SmallGearBay_4291774694
-	sym = Mk1FuselageStructural_4291777252
-	attN = top,Mk1FuselageStructural_4291775106
-	attN = bottom,Mk1FuselageStructural_4291775050
+	link = Mk1FuselageStructural_4294749144
+	link = SmallGearBay_4294748788
+	sym = Mk1FuselageStructural_4294751346
+	attN = top,Mk1FuselageStructural_4294749200
+	attN = bottom,Mk1FuselageStructural_4294749144
 	EVENTS
 	{
 	}
@@ -3445,10 +3445,10 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291775050
+	part = Mk1FuselageStructural_4294749144
 	partName = Strut
 	pos = 3.507703,5.135376,-10.87574
-	rot = 0.7071074,3.506456E-07,-1.136301E-07,0.7071062
+	rot = 0.7071075,3.506456E-07,-1.136301E-07,0.7071062
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -3456,13 +3456,13 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = turboFanEngine_4291775022
-	link = strutConnector_4291774938
-	link = strutConnector_4291774882
-	link = trussPiece3x_4291774826
-	sym = Mk1FuselageStructural_4291777224
-	attN = top,Mk1FuselageStructural_4291775078
-	attN = bottom,turboFanEngine_4291775022
+	link = turboFanEngine_4294749116
+	link = strutConnector_4294749032
+	link = strutConnector_4294748976
+	link = trussPiece3x_4294748920
+	sym = Mk1FuselageStructural_4294751318
+	attN = top,Mk1FuselageStructural_4294749172
+	attN = bottom,turboFanEngine_4294749116
 	EVENTS
 	{
 	}
@@ -3472,10 +3472,10 @@ PART
 }
 PART
 {
-	part = turboFanEngine_4291775022
+	part = turboFanEngine_4294749116
 	partName = Part
 	pos = 3.507703,5.135385,-13.24206
-	rot = 0.7071071,4.698546E-07,5.579561E-09,0.7071065
+	rot = 0.7071072,4.698546E-07,5.579541E-09,0.7071065
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -3483,8 +3483,8 @@ PART
 	sidx = 2
 	sqor = 0
 	attm = 0
-	sym = turboFanEngine_4291777196
-	attN = top,Mk1FuselageStructural_4291775050
+	sym = turboFanEngine_4294751290
+	attN = top,Mk1FuselageStructural_4294749144
 	EVENTS
 	{
 	}
@@ -3604,10 +3604,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291774938
+	part = strutConnector_4294749032
 	partName = StrutConnector
 	pos = 2.987242,4.834897,-11.66834
-	rot = -0.6830126,-0.1830141,-0.1830138,-0.6830124
+	rot = -0.6830125,-0.1830141,-0.1830138,-0.6830124
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -3615,8 +3615,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291777112
-	srfN = srfAttach,Mk1FuselageStructural_4291775050
+	sym = strutConnector_4294751206
+	srfN = srfAttach,Mk1FuselageStructural_4294749144
 	EVENTS
 	{
 	}
@@ -3626,10 +3626,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291774882
+	part = strutConnector_4294748976
 	partName = StrutConnector
 	pos = 2.986804,4.83464,-10.17944
-	rot = -0.6830126,-0.1830141,-0.1830138,-0.6830124
+	rot = -0.6830125,-0.1830141,-0.1830138,-0.6830124
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -3637,8 +3637,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291777056
-	srfN = srfAttach,Mk1FuselageStructural_4291775050
+	sym = strutConnector_4294751150
+	srfN = srfAttach,Mk1FuselageStructural_4294749144
 	EVENTS
 	{
 	}
@@ -3648,10 +3648,10 @@ PART
 }
 PART
 {
-	part = trussPiece3x_4291774826
+	part = trussPiece3x_4294748920
 	partName = Part
-	pos = 3.507704,5.739088,-10.05784
-	rot = 2.06864E-08,0.7071065,0.7071072,-1.928337E-08
+	pos = 3.507704,5.739089,-10.05784
+	rot = 2.068633E-08,0.7071065,0.7071072,-1.928329E-08
 	attRot = -0.7071068,0,0,0.7071068
 	mir = 1,1,1
 	istg = 0
@@ -3659,9 +3659,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = Mk1FuselageStructural_4291774806
-	sym = trussPiece3x_4291777000
-	srfN = srfAttach,Mk1FuselageStructural_4291775050
+	link = Mk1FuselageStructural_4294748900
+	sym = trussPiece3x_4294751094
+	srfN = srfAttach,Mk1FuselageStructural_4294749144
 	EVENTS
 	{
 	}
@@ -3671,10 +3671,10 @@ PART
 }
 PART
 {
-	part = Mk1FuselageStructural_4291774806
+	part = Mk1FuselageStructural_4294748900
 	partName = Strut
-	pos = 3.507708,6.701334,-10.65025
-	rot = -9.852317E-08,0.7071066,0.707107,-1.384924E-07
+	pos = 3.50771,6.701336,-10.65025
+	rot = -9.852319E-08,0.7071065,0.7071071,-1.384924E-07
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -3682,10 +3682,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = turboFanEngine_4291774778
-	sym = Mk1FuselageStructural_4291776980
-	srfN = srfAttach,trussPiece3x_4291774826
-	attN = bottom,turboFanEngine_4291774778
+	link = turboFanEngine_4294748872
+	sym = Mk1FuselageStructural_4294751074
+	srfN = srfAttach,trussPiece3x_4294748920
+	attN = bottom,turboFanEngine_4294748872
 	EVENTS
 	{
 	}
@@ -3695,10 +3695,10 @@ PART
 }
 PART
 {
-	part = turboFanEngine_4291774778
+	part = turboFanEngine_4294748872
 	partName = Part
-	pos = 3.507706,6.701335,-13.01649
-	rot = 0.7071072,1.928348E-08,-2.068652E-08,0.7071065
+	pos = 3.507706,6.701337,-13.01649
+	rot = 0.7071072,1.928352E-08,-2.068656E-08,0.7071065
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -3706,8 +3706,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = turboFanEngine_4291776952
-	attN = top,Mk1FuselageStructural_4291774806
+	sym = turboFanEngine_4294751046
+	attN = top,Mk1FuselageStructural_4294748900
 	EVENTS
 	{
 	}
@@ -3827,9 +3827,9 @@ PART
 }
 PART
 {
-	part = SmallGearBay_4291774694
+	part = SmallGearBay_4294748788
 	partName = Part
-	pos = 3.433303,4.351117,-9.122249
+	pos = 3.433303,4.351117,-9.122254
 	rot = 6.322028E-07,1.639128E-07,8.483742E-07,1
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -3838,8 +3838,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = SmallGearBay_4291776868
-	srfN = srfAttach,Mk1FuselageStructural_4291775078
+	sym = SmallGearBay_4294750962
+	srfN = srfAttach,Mk1FuselageStructural_4294749172
 	EVENTS
 	{
 	}
@@ -3940,9 +3940,9 @@ PART
 }
 PART
 {
-	part = strutConnector_4291774526
+	part = strutConnector_4294748620
 	partName = StrutConnector
-	pos = 2.987164,4.834852,-7.727554
+	pos = 2.987164,4.834852,-7.727558
 	rot = -0.6830125,-0.1830143,-0.1830138,-0.6830125
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -3951,8 +3951,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291776700
-	srfN = srfAttach,Mk1FuselageStructural_4291775106
+	sym = strutConnector_4294750794
+	srfN = srfAttach,Mk1FuselageStructural_4294749200
 	EVENTS
 	{
 	}
@@ -3962,9 +3962,9 @@ PART
 }
 PART
 {
-	part = strutConnector_4291774470
+	part = strutConnector_4294748564
 	partName = StrutConnector
-	pos = 2.917393,4.977208,-6.557146
+	pos = 2.917393,4.977208,-6.557152
 	rot = -0.7010573,-0.09229681,-0.09229635,-0.7010574
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -3973,8 +3973,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291776644
-	srfN = srfAttach,Mk1FuselageStructural_4291775106
+	sym = strutConnector_4294750738
+	srfN = srfAttach,Mk1FuselageStructural_4294749200
 	EVENTS
 	{
 	}
@@ -3984,10 +3984,10 @@ PART
 }
 PART
 {
-	part = deltaWing_4291774414
+	part = deltaWing_4294748508
 	partName = Winglet
-	pos = 4.11645,5.135384,-3.988102
-	rot = 4.779347E-07,0.7071069,0.7071069,-1.785084E-07
+	pos = 4.116453,5.135384,-3.988105
+	rot = 4.437206E-07,0.7071069,0.7071069,-1.442943E-07
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -3995,9 +3995,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = wingConnector_4291774386
-	sym = deltaWing_4291776588
-	srfN = srfAttach,Mk1FuselageStructural_4291775162
+	link = wingConnector_4294748480
+	sym = deltaWing_4294750682
+	srfN = srfAttach,Mk1FuselageStructural_4294749256
 	EVENTS
 	{
 	}
@@ -4007,9 +4007,9 @@ PART
 }
 PART
 {
-	part = wingConnector_4291774386
+	part = wingConnector_4294748480
 	partName = Winglet
-	pos = 5.780178,5.135385,-4.899046
+	pos = 5.780184,5.135385,-4.899046
 	rot = 0.4946464,0.5052971,0.5052959,-0.4946476
 	attRot = 0,0,0,1
 	mir = 1,1,1
@@ -4018,10 +4018,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = wingConnector_4291774358
-	link = strutConnector_4291773354
-	sym = wingConnector_4291776560
-	srfN = srfAttach,deltaWing_4291774414
+	link = wingConnector_4294748452
+	link = strutConnector_4294747448
+	sym = wingConnector_4294750654
+	srfN = srfAttach,deltaWing_4294748508
 	EVENTS
 	{
 	}
@@ -4031,10 +4031,10 @@ PART
 }
 PART
 {
-	part = wingConnector_4291774358
+	part = wingConnector_4294748452
 	partName = Winglet
-	pos = 5.780196,5.210802,-6.587786
-	rot = 0.4946465,0.5052975,0.5052966,-0.4946465
+	pos = 5.780202,5.210802,-6.587793
+	rot = 0.4946463,0.5052975,0.5052966,-0.4946465
 	attRot = 0,0.7071068,-4.214685E-08,0.7071068
 	mir = 1,1,1
 	istg = 0
@@ -4042,10 +4042,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = deltaWing_4291774330
-	link = wingConnector_4291774070
-	sym = wingConnector_4291776532
-	srfN = srfAttach,wingConnector_4291774386
+	link = deltaWing_4294748424
+	link = wingConnector_4294748164
+	sym = wingConnector_4294750626
+	srfN = srfAttach,wingConnector_4294748480
 	EVENTS
 	{
 	}
@@ -4055,10 +4055,10 @@ PART
 }
 PART
 {
-	part = deltaWing_4291774330
+	part = deltaWing_4294748424
 	partName = Winglet
-	pos = 7.518812,5.210803,-6.742999
-	rot = -0.007531078,0.7070671,0.7070668,0.007530423
+	pos = 7.51882,5.210804,-6.743005
+	rot = -0.007530992,0.707067,0.7070666,0.007530397
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4066,11 +4066,11 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = strutConnector_4291774302
-	link = strutConnector_4291774246
-	link = nacelleBody_4291774190
-	sym = deltaWing_4291776504
-	srfN = srfAttach,wingConnector_4291774358
+	link = strutConnector_4294748396
+	link = strutConnector_4294748340
+	link = nacelleBody_4294748284
+	sym = deltaWing_4294750598
+	srfN = srfAttach,wingConnector_4294748452
 	EVENTS
 	{
 	}
@@ -4080,10 +4080,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291774302
+	part = strutConnector_4294748396
 	partName = StrutConnector
-	pos = 10.89865,5.210804,-7.11491
-	rot = -0.007531079,0.7070666,0.7070673,0.007530662
+	pos = 10.89865,5.210804,-7.114916
+	rot = -0.007531081,0.7070664,0.7070673,0.007530665
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4091,9 +4091,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: nacelleBody_108; pos: 0.322573,-0.1279889,0.02114296; dir: 0.9277933,-0.3681059,0.06080773
-	sym = strutConnector_4291776476
-	srfN = srfAttach,deltaWing_4291774330
+	cData = tgt: nacelleBody_108; pos: 0.3225578,-0.1279843,0.02114225; dir: 0.9277933,-0.3681059,0.06080773
+	sym = strutConnector_4294750570
+	srfN = srfAttach,deltaWing_4294748424
 	EVENTS
 	{
 	}
@@ -4103,10 +4103,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291774246
+	part = strutConnector_4294748340
 	partName = StrutConnector
-	pos = 8.462756,5.210804,-7.266998
-	rot = 0.2963868,0.6419927,0.6419936,-0.2963867
+	pos = 8.462768,5.210804,-7.267002
+	rot = 0.2963867,0.6419926,0.6419935,-0.2963866
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4114,9 +4114,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: deltaWing_111; pos: 0.08467662,-0.6165039,0.06513529; dir: 0.1353408,-0.9853153,0.1040991
-	sym = strutConnector_4291776420
-	srfN = srfAttach,deltaWing_4291774330
+	cData = tgt: deltaWing_111; pos: 0.08467702,-0.6165102,0.06513639; dir: 0.1353408,-0.9853153,0.1040991
+	sym = strutConnector_4294750514
+	srfN = srfAttach,deltaWing_4294748424
 	EVENTS
 	{
 	}
@@ -4126,10 +4126,10 @@ PART
 }
 PART
 {
-	part = nacelleBody_4291774190
+	part = nacelleBody_4294748284
 	partName = Strut
-	pos = 9.956197,5.210796,-7.087276
-	rot = 0.5052973,-0.5052967,-0.4946467,0.4946467
+	pos = 9.956209,5.210796,-7.087279
+	rot = 0.5052972,-0.5052967,-0.4946466,0.4946467
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4137,10 +4137,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = turboFanEngine_4291774154
-	sym = nacelleBody_4291776364
-	srfN = srfAttach,deltaWing_4291774330
-	attN = bottom,turboFanEngine_4291774154
+	link = turboFanEngine_4294748248
+	sym = nacelleBody_4294750458
+	srfN = srfAttach,deltaWing_4294748424
+	attN = bottom,turboFanEngine_4294748248
 	EVENTS
 	{
 	}
@@ -4188,10 +4188,10 @@ PART
 }
 PART
 {
-	part = turboFanEngine_4291774154
+	part = turboFanEngine_4294748248
 	partName = Part
-	pos = 10.00657,5.210795,-9.451743
-	rot = 0.5266112,-0.4830005,-0.4718913,0.5164403
+	pos = 10.00657,5.210795,-9.451752
+	rot = 0.5266111,-0.4830004,-0.4718913,0.5164402
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4199,8 +4199,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = turboFanEngine_4291776328
-	attN = top,nacelleBody_4291774190
+	sym = turboFanEngine_4294750422
+	attN = top,nacelleBody_4294748284
 	EVENTS
 	{
 	}
@@ -4320,10 +4320,10 @@ PART
 }
 PART
 {
-	part = wingConnector_4291774070
+	part = wingConnector_4294748164
 	partName = Winglet
-	pos = 5.757572,5.228506,-8.276784
-	rot = 0.4946465,0.5052973,0.5052969,-0.4946465
+	pos = 5.757578,5.228507,-8.27679
+	rot = 0.4946466,0.5052971,0.5052969,-0.4946464
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4331,12 +4331,12 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = deltaWing_4291774042
-	link = strutConnector_4291773576
-	link = StandardCtrlSrf_4291773520
-	link = nacelleBody_4291773474
-	sym = wingConnector_4291776244
-	srfN = srfAttach,wingConnector_4291774358
+	link = deltaWing_4294748136
+	link = strutConnector_4294747670
+	link = StandardCtrlSrf_4294747614
+	link = nacelleBody_4294747568
+	sym = wingConnector_4294750338
+	srfN = srfAttach,wingConnector_4294748452
 	EVENTS
 	{
 	}
@@ -4346,10 +4346,10 @@ PART
 }
 PART
 {
-	part = deltaWing_4291774042
+	part = deltaWing_4294748136
 	partName = Winglet
-	pos = 7.47963,5.228508,-8.678979
-	rot = 0.007530007,0.7070662,-0.7070676,0.007529946
+	pos = 7.479639,5.228508,-8.678985
+	rot = 0.007529981,0.7070662,-0.7070675,0.00752992
 	attRot = 0,0.9999999,-5.960464E-08,-1.776357E-15
 	mir = 1,1,1
 	istg = 0
@@ -4357,16 +4357,16 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = StandardCtrlSrf_4291774014
-	link = strutConnector_4291773968
-	link = strutConnector_4291773912
-	link = strutConnector_4291773856
-	link = strutConnector_4291773800
-	link = strutConnector_4291773744
-	link = strutConnector_4291773688
-	link = strutConnector_4291773632
-	sym = deltaWing_4291776216
-	srfN = srfAttach,wingConnector_4291774070
+	link = StandardCtrlSrf_4294748108
+	link = strutConnector_4294748062
+	link = strutConnector_4294748006
+	link = strutConnector_4294747950
+	link = strutConnector_4294747894
+	link = strutConnector_4294747838
+	link = strutConnector_4294747782
+	link = strutConnector_4294747726
+	sym = deltaWing_4294750310
+	srfN = srfAttach,wingConnector_4294748164
 	EVENTS
 	{
 	}
@@ -4376,10 +4376,10 @@ PART
 }
 PART
 {
-	part = StandardCtrlSrf_4291774014
+	part = StandardCtrlSrf_4294748108
 	partName = ControlSurface
-	pos = 9.212235,5.228502,-9.946231
-	rot = -0.2443812,0.6635347,0.6635345,0.2443809
+	pos = 9.212249,5.228502,-9.946234
+	rot = -0.2443813,0.6635345,0.6635345,0.2443809
 	attRot = 0,-0.7071068,4.214685E-08,0.7071068
 	mir = 1,1,1
 	istg = 0
@@ -4387,8 +4387,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = StandardCtrlSrf_4291776188
-	srfN = srfAttach,deltaWing_4291774042
+	sym = StandardCtrlSrf_4294750282
+	srfN = srfAttach,deltaWing_4294748136
 	EVENTS
 	{
 	}
@@ -4398,10 +4398,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291773968
+	part = strutConnector_4294748062
 	partName = StrutConnector
-	pos = 8.794706,5.228508,-9.736424
-	rot = 0.2964819,0.6417872,0.642199,-0.2962918
+	pos = 8.79472,5.228508,-9.736429
+	rot = 0.2964818,0.6417872,0.642199,-0.2962919
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4409,9 +4409,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: deltaWing_105; pos: 1.376546,1.435497,-0.02804386; dir: 0.6920663,0.7216977,-0.01409906
-	sym = strutConnector_4291776142
-	srfN = srfAttach,deltaWing_4291774042
+	cData = tgt: deltaWing_105; pos: 1.376546,1.435496,-0.02804377; dir: 0.6920663,0.7216977,-0.01409906
+	sym = strutConnector_4294750236
+	srfN = srfAttach,deltaWing_4294748136
 	EVENTS
 	{
 	}
@@ -4421,10 +4421,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291773912
+	part = strutConnector_4294748006
 	partName = StrutConnector
-	pos = 8.282224,5.228506,-10.43474
-	rot = 0.2964819,0.6417872,0.642199,-0.2962918
+	pos = 8.282237,5.228506,-10.43474
+	rot = 0.2964818,0.6417872,0.642199,-0.2962919
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4432,9 +4432,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: deltaWing_105; pos: 1.993357,1.743782,-0.03161747; dir: 0.7526017,0.6583695,-0.0119371
-	sym = strutConnector_4291776086
-	srfN = srfAttach,deltaWing_4291774042
+	cData = tgt: deltaWing_105; pos: 1.993353,1.743778,-0.03161727; dir: 0.7526017,0.6583695,-0.0119371
+	sym = strutConnector_4294750180
+	srfN = srfAttach,deltaWing_4294748136
 	EVENTS
 	{
 	}
@@ -4444,10 +4444,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291773856
+	part = strutConnector_4294747950
 	partName = StrutConnector
-	pos = 10.73772,5.228508,-8.167232
-	rot = -0.007530363,0.7070672,0.7070666,0.007530185
+	pos = 10.73774,5.228508,-8.167236
+	rot = -0.007530456,0.7070671,0.7070665,0.007530159
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4455,9 +4455,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: turboFanEngine_109; pos: 0.1425082,0.07170894,-0.01004014; dir: 0.8915325,0.4485826,-0.06280967
-	sym = strutConnector_4291776030
-	srfN = srfAttach,deltaWing_4291774042
+	cData = tgt: turboFanEngine_109; pos: 0.1425206,0.07171208,-0.01004013; dir: 0.8915325,0.4485826,-0.06280967
+	sym = strutConnector_4294750124
+	srfN = srfAttach,deltaWing_4294748136
 	EVENTS
 	{
 	}
@@ -4467,10 +4467,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291773800
+	part = strutConnector_4294747894
 	partName = StrutConnector
-	pos = 8.067685,5.228507,-7.968023
-	rot = -0.3099942,0.6355348,0.635534,0.3099939
+	pos = 8.067697,5.228508,-7.968027
+	rot = -0.3099943,0.6355348,0.6355339,0.3099939
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4478,8 +4478,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291775974
-	srfN = srfAttach,deltaWing_4291774042
+	sym = strutConnector_4294750068
+	srfN = srfAttach,deltaWing_4294748136
 	EVENTS
 	{
 	}
@@ -4489,10 +4489,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291773744
+	part = strutConnector_4294747838
 	partName = StrutConnector
-	pos = 7.963815,5.228507,-7.93148
-	rot = -0.3099945,0.6355342,0.6355349,0.3099931
+	pos = 7.963827,5.228507,-7.931483
+	rot = -0.3099945,0.6355341,0.6355348,0.3099931
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4500,8 +4500,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291775918
-	srfN = srfAttach,deltaWing_4291774042
+	sym = strutConnector_4294750012
+	srfN = srfAttach,deltaWing_4294748136
 	EVENTS
 	{
 	}
@@ -4511,10 +4511,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291773688
+	part = strutConnector_4294747782
 	partName = StrutConnector
-	pos = 7.952986,5.228507,-7.984344
-	rot = -0.3099934,0.6355349,0.6355346,0.3099938
+	pos = 7.952998,5.228508,-7.984347
+	rot = -0.3099934,0.6355347,0.6355344,0.3099937
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4522,8 +4522,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291775862
-	srfN = srfAttach,deltaWing_4291774042
+	sym = strutConnector_4294749956
+	srfN = srfAttach,deltaWing_4294748136
 	EVENTS
 	{
 	}
@@ -4533,10 +4533,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291773632
+	part = strutConnector_4294747726
 	partName = StrutConnector
-	pos = 7.851033,5.128988,-7.962835
-	rot = 0.09229651,0.7010579,0.7010576,0.09229517
+	pos = 7.851042,5.128988,-7.962839
+	rot = 0.09229654,0.7010577,0.7010576,0.09229514
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4544,9 +4544,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_89; pos: 3.717796,2.931191,-1.488009; dir: 0.749154,0.590649,-0.2998399
-	sym = strutConnector_4291775806
-	srfN = srfAttach,deltaWing_4291774042
+	cData = tgt: Mk1FuselageStructural_89; pos: 3.717808,2.931201,-1.488014; dir: 0.749154,0.590649,-0.2998399
+	sym = strutConnector_4294749900
+	srfN = srfAttach,deltaWing_4294748136
 	EVENTS
 	{
 	}
@@ -4556,10 +4556,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291773576
+	part = strutConnector_4294747670
 	partName = StrutConnector
-	pos = 6.404574,5.055134,-9.040797
-	rot = 0.09229852,0.7010577,0.7010574,0.09229425
+	pos = 6.404582,5.055134,-9.0408
+	rot = 0.09229848,0.7010577,0.7010573,0.09229422
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4567,9 +4567,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_89; pos: 2.27052,3.672545,-0.9456744; dir: 0.5136831,0.8308769,-0.2139487
-	sym = strutConnector_4291775750
-	srfN = srfAttach,wingConnector_4291774070
+	cData = tgt: Mk1FuselageStructural_89; pos: 2.270525,3.672554,-0.9456751; dir: 0.5136831,0.8308769,-0.2139487
+	sym = strutConnector_4294749844
+	srfN = srfAttach,wingConnector_4294748164
 	EVENTS
 	{
 	}
@@ -4579,10 +4579,10 @@ PART
 }
 PART
 {
-	part = StandardCtrlSrf_4291773520
+	part = StandardCtrlSrf_4294747614
 	partName = ControlSurface
-	pos = 5.589013,5.318212,-9.91996
-	rot = 0.7070675,-0.007531228,0.007531048,0.7070663
+	pos = 5.589019,5.318213,-9.919965
+	rot = 0.7070674,-0.007531172,0.007530993,0.7070662
 	attRot = -0.5000001,-0.5000001,0.5000001,-0.5000001
 	mir = 1,1,1
 	istg = 0
@@ -4590,8 +4590,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = StandardCtrlSrf_4291775694
-	srfN = srfAttach,wingConnector_4291774070
+	sym = StandardCtrlSrf_4294749788
+	srfN = srfAttach,wingConnector_4294748164
 	EVENTS
 	{
 	}
@@ -4601,10 +4601,10 @@ PART
 }
 PART
 {
-	part = nacelleBody_4291773474
+	part = nacelleBody_4294747568
 	partName = Strut
-	pos = 6.95294,5.5488,-9.082549
-	rot = 0.5609858,-0.4304591,-0.4304591,0.5609862
+	pos = 6.952949,5.5488,-9.082554
+	rot = 0.5609857,-0.4304591,-0.4304591,0.5609862
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4612,10 +4612,10 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	link = turboFanEngine_4291773438
-	sym = nacelleBody_4291775648
-	srfN = srfAttach,wingConnector_4291774070
-	attN = bottom,turboFanEngine_4291773438
+	link = turboFanEngine_4294747532
+	sym = nacelleBody_4294749742
+	srfN = srfAttach,wingConnector_4294748164
+	attN = bottom,turboFanEngine_4294747532
 	EVENTS
 	{
 	}
@@ -4663,10 +4663,10 @@ PART
 }
 PART
 {
-	part = turboFanEngine_4291773438
+	part = turboFanEngine_4294747532
 	partName = Part
-	pos = 6.95294,5.5488,-11.44755
-	rot = 0.579416,-0.4053119,-0.405312,0.5794154
+	pos = 6.952949,5.5488,-11.44755
+	rot = 0.5794159,-0.4053119,-0.405312,0.5794154
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4674,8 +4674,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = turboFanEngine_4291775612
-	attN = top,nacelleBody_4291773474
+	sym = turboFanEngine_4294749706
+	attN = top,nacelleBody_4294747568
 	EVENTS
 	{
 	}
@@ -4795,10 +4795,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291773354
+	part = strutConnector_4294747448
 	partName = StrutConnector
-	pos = 6.384341,4.973492,-5.551775
-	rot = 0.09229656,0.701058,0.7010574,0.09229451
+	pos = 6.38435,4.973493,-5.551775
+	rot = 0.09229654,0.701058,0.7010574,0.09229449
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4806,9 +4806,9 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	cData = tgt: Mk1FuselageStructural_92; pos: 2.228815,-5.320049,-0.7001106; dir: 0.3835916,-0.9156094,-0.1204934
-	sym = strutConnector_4291775528
-	srfN = srfAttach,wingConnector_4291774386
+	cData = tgt: Mk1FuselageStructural_92; pos: 2.228824,-5.320068,-0.7001137; dir: 0.3835916,-0.9156094,-0.1204934
+	sym = strutConnector_4294749622
+	srfN = srfAttach,wingConnector_4294748480
 	EVENTS
 	{
 	}
@@ -4818,10 +4818,10 @@ PART
 }
 PART
 {
-	part = strutConnector_4291773298
+	part = strutConnector_4294747392
 	partName = StrutConnector
-	pos = 2.923604,4.978869,-3.727089
-	rot = -0.7010577,-0.09229609,-0.09229547,-0.7010574
+	pos = 2.923604,4.978869,-3.727092
+	rot = -0.7010577,-0.09229605,-0.09229551,-0.7010574
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4829,8 +4829,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291775472
-	srfN = srfAttach,Mk1FuselageStructural_4291775162
+	sym = strutConnector_4294749566
+	srfN = srfAttach,Mk1FuselageStructural_4294749256
 	EVENTS
 	{
 	}
@@ -4840,7 +4840,7 @@ PART
 }
 PART
 {
-	part = strutConnector_4291773242
+	part = strutConnector_4294747336
 	partName = StrutConnector
 	pos = 2.981002,4.831295,-2.728427
 	rot = -0.683013,-0.1830133,-0.1830134,-0.6830124
@@ -4851,8 +4851,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 1
-	sym = strutConnector_4291775416
-	srfN = srfAttach,Mk1FuselageStructural_4291775162
+	sym = strutConnector_4294749510
+	srfN = srfAttach,Mk1FuselageStructural_4294749256
 	EVENTS
 	{
 	}
@@ -4862,10 +4862,10 @@ PART
 }
 PART
 {
-	part = adapterLargeSmallQuad_4291773186
+	part = adapterLargeSmallQuad_4294747280
 	partName = Part
-	pos = 3.507713,5.135376,-0.5007458
-	rot = 1.297378E-06,-0.7071063,0.7071074,-3.701491E-07
+	pos = 3.507713,5.135376,-0.5007468
+	rot = 1.297378E-06,-0.7071063,0.7071075,-3.70149E-07
 	attRot = 0,-0.9999999,5.960464E-08,-1.776357E-15
 	mir = 1,1,1
 	istg = 0
@@ -4873,16 +4873,16 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	link = ramAirIntake_4291773160
-	link = ramAirIntake_4291773124
-	link = ramAirIntake_4291773088
-	link = ramAirIntake_4291773052
-	sym = adapterLargeSmallQuad_4291775360
-	attN = top,Mk1FuselageStructural_4291775190
-	attN = bottom01,ramAirIntake_4291773088
-	attN = bottom02,ramAirIntake_4291773160
-	attN = bottom03,ramAirIntake_4291773052
-	attN = bottom04,ramAirIntake_4291773124
+	link = ramAirIntake_4294747254
+	link = ramAirIntake_4294747218
+	link = ramAirIntake_4294747182
+	link = ramAirIntake_4294747146
+	sym = adapterLargeSmallQuad_4294749454
+	attN = top,Mk1FuselageStructural_4294749284
+	attN = bottom01,ramAirIntake_4294747182
+	attN = bottom02,ramAirIntake_4294747254
+	attN = bottom03,ramAirIntake_4294747146
+	attN = bottom04,ramAirIntake_4294747218
 	EVENTS
 	{
 	}
@@ -4892,10 +4892,10 @@ PART
 }
 PART
 {
-	part = ramAirIntake_4291773160
+	part = ramAirIntake_4294747254
 	partName = Part
-	pos = 4.132735,5.760417,0.2492679
-	rot = 0.7071068,5.465866E-07,1.672662E-07,0.7071069
+	pos = 4.13274,5.760417,0.2492675
+	rot = 0.7071069,5.465866E-07,1.672661E-07,0.7071069
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4903,8 +4903,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = ramAirIntake_4291775334
-	attN = bottom01,adapterLargeSmallQuad_4291773186
+	sym = ramAirIntake_4294749428
+	attN = bottom01,adapterLargeSmallQuad_4294747280
 	EVENTS
 	{
 	}
@@ -4952,10 +4952,10 @@ PART
 }
 PART
 {
-	part = ramAirIntake_4291773124
+	part = ramAirIntake_4294747218
 	partName = Part
 	pos = 2.88269,5.760388,0.2492675
-	rot = 0.7071068,5.465866E-07,1.672662E-07,0.7071069
+	rot = 0.7071069,5.465866E-07,1.672661E-07,0.7071069
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -4963,8 +4963,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = ramAirIntake_4291775298
-	attN = bottom01,adapterLargeSmallQuad_4291773186
+	sym = ramAirIntake_4294749392
+	attN = bottom01,adapterLargeSmallQuad_4294747280
 	EVENTS
 	{
 	}
@@ -5012,10 +5012,10 @@ PART
 }
 PART
 {
-	part = ramAirIntake_4291773088
+	part = ramAirIntake_4294747182
 	partName = Part
-	pos = 4.132717,4.510375,0.249269
-	rot = 0.7071068,5.465866E-07,1.672662E-07,0.7071069
+	pos = 4.13272,4.510375,0.249269
+	rot = 0.7071069,5.465866E-07,1.672661E-07,0.7071069
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -5023,8 +5023,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = ramAirIntake_4291775262
-	attN = bottom01,adapterLargeSmallQuad_4291773186
+	sym = ramAirIntake_4294749356
+	attN = bottom01,adapterLargeSmallQuad_4294747280
 	EVENTS
 	{
 	}
@@ -5072,10 +5072,10 @@ PART
 }
 PART
 {
-	part = ramAirIntake_4291773052
+	part = ramAirIntake_4294747146
 	partName = Part
-	pos = 2.882677,4.510353,0.2492704
-	rot = 0.7071068,5.465866E-07,1.672662E-07,0.7071069
+	pos = 2.882677,4.510353,0.2492699
+	rot = 0.7071069,5.465866E-07,1.672661E-07,0.7071069
 	attRot = 0,0,0,1
 	mir = 1,1,1
 	istg = 0
@@ -5083,8 +5083,8 @@ PART
 	sidx = -1
 	sqor = -1
 	attm = 0
-	sym = ramAirIntake_4291775226
-	attN = bottom01,adapterLargeSmallQuad_4291773186
+	sym = ramAirIntake_4294749320
+	attN = bottom01,adapterLargeSmallQuad_4294747280
 	EVENTS
 	{
 	}

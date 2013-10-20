@@ -1,1 +1,0 @@
-move png to ksp/GameData/Squad/Flags
